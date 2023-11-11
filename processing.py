@@ -88,16 +88,15 @@ def league_standing():
         "L": "lost",
         "F": "GF", 
         "A": "GA", 
-        # "GD": "GD",
         "Pts": "points"
     })
 
     football_standing = football_standing.drop("Last 6", axis=1)
 
     # Previous table
-    # previous_table = pd.read_csv("C:/Users/AYOMIDE/vs-python/dew/sportleague/footballstanding.csv")
-    # New location
-    previous_table = pd.read_csv("C:/Users/AYOMIDE/vs-python/dew/sportleague/sport_dbt/seeds/footballstanding.csv")
+    previous_table = pd.read_csv(
+        "data/football_league.csv"
+    )
 
     # Combine current table with previous table and drop duplicate rows
     football_standing = (
@@ -112,9 +111,10 @@ def league_standing():
             .assign(club = lambda _: _["club"].str.replace("*", "").str.strip())
     )
 
-    # football_standing.to_csv("footballstanding.csv", index=False)
-    # new location
-    football_standing.to_csv("C:/Users/AYOMIDE/vs-python/dew/sportleague/sport_dbt/seeds/footballstanding.csv", index=False)
+    football_standing.to_csv(
+        "data/football_league.csv", 
+        index=False
+    )
     
 
 
@@ -155,7 +155,9 @@ def get_league_scores():
     scores["type"] = "current"
 
     # Read in previous week scores
-    previous_scores = pd.read_csv("C:/Users/AYOMIDE/vs-python/dew/sportleague/sport_dbt/seeds/footscores.csv")
+    previous_scores = pd.read_csv(
+        "data/football_scores.csv"
+    )
 
     # previous scores clubs
     list_list = [previous_scores[clubs].to_list() for clubs in ["home_team", "away_team"]]
@@ -181,9 +183,10 @@ def get_league_scores():
         scores = pd.concat([scores, missing_clubs_df]).drop_duplicates()
 
 
-    # scores.to_csv("footscores.csv", index=False)
-    # new location
-    scores.to_csv("C:/Users/AYOMIDE/vs-python/dew/sportleague/sport_dbt/seeds/footscores.csv", index=False)
+    scores.to_csv(
+        "data/football_scores.csv",
+        index=False
+    )
 
 
 

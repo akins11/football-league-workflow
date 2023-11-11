@@ -1,0 +1,235 @@
+,home_team,home_team_score,away_team_score,away_team
+0,Atlanta United FC,4,2,Columbus Crew
+1,Borussia Dortmund,2,0,Newcastle United
+2,Shakhtar Donetsk,1,0,Barcelona
+3,AC Milan,2,1,Paris Saint-Germain
+4,Atletico Madrid,6,0,Celtic
+5,Crvena Zvezda,1,2,RB Leipzig
+6,FC Porto,2,0,Antwerp
+7,Lazio,1,0,Feyenoord
+8,Manchester City,3,0,BSC Young Boys Bern
+9,Rotherham United,2,2,Ipswich Town
+10,Shrewsbury Town,0,2,Bolton Wanderers
+11,Wigan Athletic,2,1,Peterborough United
+12,Reading,1,1,Bristol Rovers
+13,Colchester United,3,1,Swindon Town
+14,St. Johnstone,2,2,Motherwell
+15,AFC Wimbledon,2,0,Crystal Palace U21
+16,Barrow,2,1,Liverpool U21
+17,Cambridge United,4,1,Tottenham Hotspur U21
+18,Fleetwood Town,4,0,Leicester City U21
+19,Forest Green Rovers,0,0,Brighton and Hove Albion U21
+20,Gillingham,0,1,Fulham U21
+21,Leyton Orient,1,2,Portsmouth
+22,Lincoln City,2,0,Notts County
+23,Mansfield Town,0,1,Everton U21
+24,Oxford United,5,0,Chelsea U21
+25,Doncaster Rovers,2,1,Burton Albion
+26,Cheltenham Town,0,4,West Ham United U21
+27,Wrexham,2,1,Port Vale
+28,Crawley Town,3,2,Aston Villa U21
+29,Rangers B,2,4,Airdrieonians
+30,Poole Town,2,2,Bracknell Town
+31,Coalville Town,0,1,St Ives Town
+32,Halesowen Town,1,2,Nuneaton
+33,Leamington,2,1,Kettering Town
+34,Needham Market,3,0,Berkhamsted
+35,Real Salt Lake,1,1,Houston Dynamo
+36,Banbury,0,2,Scunthorpe United
+37,Bishops Stortford,0,4,Alfreton Town
+38,Blyth Spartans,3,3,Southport
+39,Farsley,2,0,Boston United
+40,Hereford FC,1,0,Brackley Town
+41,Peterborough Sports,2,0,Darlington
+42,Rushall Olympic,1,2,Kings Lynn Town
+43,Scarborough Athletic,1,1,Chorley
+44,South Shields,1,0,Buxton
+45,Spennymoor Town,1,2,Curzon Ashton
+46,Braintree Town,4,0,St Albans
+47,Chippenham Town,2,1,Farnborough
+48,Dartford,1,2,Chelmsford
+49,Dover,2,2,Welling United
+50,Maidstone Utd,2,0,Eastbourne Borough
+51,Slough,4,0,Truro City
+52,Tonbridge Angels,0,0,Hampton & Richmond
+53,Torquay United,1,3,Yeovil Town
+54,Weymouth,1,5,Bath City
+55,Worthing,3,0,Havant and Waterlooville
+56,Billericay Town,2,0,Chatham Town
+57,Margate,1,1,Haringey Borough
+58,Hyde,1,2,Whitby Town
+59,Worksop,7,0,Morpeth Town
+60,Swindon Supermarine,2,1,Chesham
+61,Tottenham Hotspur,1,4,Chelsea
+62,Getafe,1,0,Cadiz
+63,Frosinone,2,1,Empoli
+64,Torino,2,1,Sassuolo
+65,Norrkoping,4,3,Varbergs BoIS
+66,IFK Gothenburg,1,1,AIK
+67,Gornik Zabrze,1,0,Cracovia
+68,Brondby,1,1,AGF Aarhus
+69,Aalesund,0,3,Sandefjord
+70,Panserraikos,2,1,OFI
+71,Vancouver Whitecaps,0,1,Los Angeles Football Club
+72,SC Farense,2,0,Arouca
+73,Aveley,2,1,Hemel Hempstead
+74,Nottingham Forest,2,0,Aston Villa
+75,Luton Town,1,1,Liverpool
+76,Norwich City,1,3,Blackburn Rovers
+77,Chesterfield,1,0,Portsmouth
+78,Kidderminster Harriers,1,2,Fleetwood Town
+79,Slough,1,1,Grimsby Town
+80,Crewe Alexandra,2,2,Derby County
+81,Charlton Athletic,1,1,Cray Valley Paper Mills
+82,Dundee,1,0,Livingston
+83,Hearts,1,3,Rangers
+84,Hearts Women,0,0,Glasgow City
+85,Wolfsburg,2,2,Werder Bremen
+86,1. FC Heidenheim 1846,2,0,Stuttgart
+87,Alaves,1,0,Almeria
+88,Valencia,1,0,Granada
+89,Villarreal,2,3,Athletic Bilbao
+90,Real Madrid,0,0,Rayo Vallecano
+91,Verona,1,3,Monza
+92,Cagliari,2,1,Genoa
+93,Roma,2,1,Lecce
+94,Fiorentina,0,1,Juventus
+95,Lyon,1,1,Metz
+96,Nantes,0,1,Reims
+97,Strasbourg,0,0,Clermont
+98,Toulouse,1,2,Le Havre
+99,Monaco,2,0,Brest
+100,Nice,2,0,Rennes
+101,Blackburn Rovers Ladies,0,3,London City Lionesses
+102,Burnley Ladies,3,1,West Bromwich Albion WFC
+103,Liverpool Marshall Feds LFC,3,1,Huddersfield Town Ladies
+104,Plymouth Argyle Ladies,5,1,London Bees
+105,FC Utrecht,1,1,FC Twente
+106,NEC Nijmegen,3,3,FC Volendam
+107,PEC Zwolle,2,0,Fortuna Sittard
+108,Ajax,4,1,Heerenveen
+109,Sparta Rotterdam,1,2,Almere City FC
+110,Paris FC Féminines,1,6,Olympiques Lyon Women
+111,FC Dallas,3,1,Seattle Sounders FC
+112,Sporting Kansas City,2,1,St. Louis City SC
+113,Hannover 96,2,0,Eintracht Braunschweig
+114,Hansa Rostock,0,0,Hertha Berlin
+115,Karlsruher SC,0,3,SC Paderborn 07
+116,Hacken,4,2,Malmo FF
+117,Halmstads BK,3,0,Kalmar FF
+118,Slask Wroclaw,2,1,LKS Lódz
+119,Raków Czestochowa,5,0,Zaglebie Lubin
+120,Radomiak Radom,0,1,Legia Warsaw
+121,Cremonese,3,0,Spezia
+122,Parma,2,0,Südtirol
+123,Reggiana,1,1,Lecco
+124,Altach,0,2,SK Rapid Wien
+125,Hartberg,3,2,BW Linz
+126,Linz ASK,3,1,Sturm Graz
+127,FC Nordsjaelland,1,0,Vejle BK
+128,Viborg FF,2,1,Silkeborg
+129,Randers FC,2,4,FC Copenhagen
+130,Hvidovre IF,1,4,FC Midtjylland
+131,Kisvárda,0,1,Zalaegerszegi TE
+132,Kecskemeti TE,2,1,Ferencvaros
+133,Paksi SE,0,0,MTK Budapest
+134,Brann,2,1,Odd Grenland
+135,Lillestrom,1,0,Haugesund
+136,Rosenborg,3,1,Molde
+137,Sarpsborg,3,2,Valerenga
+138,Stabaek,0,4,Bodo/Glimt
+139,Tromso,0,1,Stromsgodset
+140,Panetolikos,0,1,Asteras Tripoli
+141,PAS Giannina,1,1,Volos NFC
+142,Olympiakos FC,2,4,PAOK Salonika
+143,Aris Salonika,1,3,Atromitos Athens
+144,Newcastle Jets,2,2,Western Sydney Wanderers
+145,Casa Pia AC,0,1,Vizela
+146,Moreirense,1,0,Vitoria de Guimaraes
+147,Rio Ave,2,0,Boavista
+148,Sporting Lisbon,3,2,Estrela
+149,Cercle Brugge KSV,0,3,Anderlecht
+150,Standard Liege,1,1,Mechelen
+151,Union Saint-Gilloise,2,1,Club Brugge
+152,Charleroi,1,3,AA Gent
+153,Fulham,0,1,Manchester United
+154,Brentford,3,2,West Ham United
+155,Burnley,0,2,Crystal Palace
+156,Everton,1,1,Brighton and Hove Albion
+157,Manchester City,6,1,Bournemouth
+158,Sheffield United,2,1,Wolverhampton Wanderers
+159,Newcastle United,1,0,Arsenal
+160,Birmingham City,2,2,Ipswich Town
+161,Bristol City,1,0,Sheffield Wednesday
+162,Huddersfield Town,0,0,Watford
+163,Millwall,0,1,Southampton
+164,Plymouth Argyle,3,3,Middlesbrough
+165,Preston North End,3,2,Coventry City
+166,Rotherham United,1,1,Queens Park Rangers
+167,Stoke City,0,0,Cardiff City
+168,Swansea City,0,0,Sunderland
+169,West Bromwich Albion,3,1,Hull City
+170,Northampton Town,1,3,Barrow
+171,Bolton Wanderers,4,0,Solihull Moors
+172,Bradford City,1,2,Wycombe Wanderers
+173,Chester FC,0,0,York City
+174,Curzon Ashton,0,1,Barnet
+175,Doncaster Rovers,2,2,Accrington Stanley
+176,Eastleigh,5,1,Boreham Wood
+177,Exeter City,0,2,Wigan Athletic
+178,Leyton Orient,3,1,Carlisle United
+179,Lincoln City,1,2,Morecambe
+180,Marine,1,5,Harrogate Town
+181,Newport County AFC,2,0,Oldham Athletic
+182,Oxford United,2,0,Maidenhead United
+183,Peterborough United,2,2,Salford City
+184,Ramsgate,2,1,Woking
+185,Reading,3,2,Milton Keynes Dons
+186,Stevenage,4,3,Tranmere Rovers
+187,Stockport County,5,1,Worksop
+188,Sutton United,2,1,AFC Fylde
+189,Swindon Town,4,7,Aldershot Town
+190,Yeovil Town,3,2,Gateshead
+191,Bromley,0,2,Blackpool
+192,Ross County,0,3,Celtic
+193,Hibernian,0,1,Aberdeen
+194,Arbroath,1,3,Partick Thistle
+195,Ayr United,2,2,Queen's Park
+196,Dundee United,1,1,Inverness CT
+197,Raith Rovers,1,1,Airdrieonians
+198,Luncarty,0,1,Bo'ness United
+199,Annan Athletic,2,2,Kelty Hearts
+200,Cove Rangers,1,0,Hamilton Academical
+201,Edinburgh City,1,5,Montrose
+202,Queen Of The South,1,1,Falkirk
+203,Stirling Albion,0,2,Alloa Athletic
+204,Clyde,1,2,Spartans
+205,Dumbarton,4,0,Bonnyrigg Rose
+206,Forfar Athletic,1,3,Stenhousemuir
+207,Peterhead,2,0,East Fife
+208,Stranraer,3,1,Elgin City
+209,Dorking Wanderers,1,3,Dagenham & Redbridge
+210,1. FC Union Berlin,0,3,Eintracht Frankfurt
+211,Cologne,1,1,FC Augsburg
+212,Hoffenheim,2,3,Bayer Leverkusen
+213,Mainz,2,0,RB Leipzig
+214,SC Freiburg,3,3,M'gladbach
+215,Borussia Dortmund,0,4,Bayern Munich
+216,Osasuna,2,4,Girona
+217,Real Betis,2,0,Real Mallorca
+218,Celta Vigo,1,1,Sevilla
+219,Real Sociedad,0,1,Barcelona
+220,Salernitana,0,2,Napoli
+221,Atalanta,1,2,Inter Milan
+222,AC Milan,0,1,Udinese
+223,Lorient,0,0,RC Lens
+224,Marseille,0,0,Lille
+225,Heracles Almelo,0,6,PSV Eindhoven
+226,Excelsior,1,1,AZ Alkmaar
+227,RKC Waalwijk,1,2,Feyenoord
+228,Go Ahead Eagles,5,1,Vitesse Arnhem
+229,Crusaders,0,2,Coleraine
+230,Glenavon,1,0,Dungannon Swifts
+231,Glentoran,2,3,Carrick Rangers
+232,Loughgall,5,2,Ballymena United
+233,Newry City,0,3,Linfield

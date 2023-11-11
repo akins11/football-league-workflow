@@ -1,4 +1,4 @@
-name: Update Europe Top Football Leagues Standings & Scores
+name: Update Europe Top Football Leagues Standings & Last League Game Scores.
 
 on:
   schedule:
