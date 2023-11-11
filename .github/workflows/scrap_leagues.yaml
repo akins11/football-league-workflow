@@ -1,0 +1,40 @@
+name: Update European Top Leagues Standings & Scores
+
+on:
+  schedule:
+    - cron: '0 1 * * 2'
+  
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install beautifulsoup4
+        pip install pandas
+        pip install numpy
+    
+    - name: Run Python script
+      run: |
+        python processing.py
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+      
+    - name: Save league standing 
+      run: |
+        git config --global user.name "Github Actions"
+        git config --global user.email "actions@github.com"
+        git add data/football_league.csv
+        git add data/football_scores.csv
+        git commit -m "Update euro leagues data"
+        git push
