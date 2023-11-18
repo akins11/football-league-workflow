@@ -145,7 +145,7 @@ def get_league_scores():
     })
 
     # Drop all female teams scores
-    contain_str = r"Women|Ladies|Femenino|Femminile"
+    contain_str = r"Women|Ladies|Femenino|Femminile|Féminines|Vrouwen"
     scores = scores[
         (~scores["home_team"].str.contains(contain_str, case=False)) | 
         (~scores["away_team"].str.contains(contain_str, case=False))
