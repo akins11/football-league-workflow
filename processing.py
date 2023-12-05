@@ -83,7 +83,7 @@ def league_standing():
         "#": "position", 
         "Team": "club",
         "Pl": "played", 
-        "W": "win", 
+        "W": "won", 
         "D": "drawn", 
         "L": "lost",
         "F": "GF", 
@@ -144,7 +144,7 @@ def get_league_scores():
         "away_team": y[:min_length]
     })
 
-    # Drop all female teams scores
+    # Drop all womens teams scores
     contain_str = r"Women|Ladies|Femenino|Femminile|Féminines|Vrouwen"
     scores = scores[
         (~scores["home_team"].str.contains(contain_str, case=False)) | 
@@ -155,9 +155,7 @@ def get_league_scores():
     scores["type"] = "current"
 
     # Read in previous week scores
-    previous_scores = pd.read_csv(
-        "data/football_scores.csv"
-    )
+    previous_scores = pd.read_csv("data/football_scores.csv")
 
     # previous scores clubs
     list_list = [previous_scores[clubs].to_list() for clubs in ["home_team", "away_team"]]
@@ -183,10 +181,7 @@ def get_league_scores():
         scores = pd.concat([scores, missing_clubs_df]).drop_duplicates()
 
 
-    scores.to_csv(
-        "data/football_scores.csv",
-        index=False
-    )
+    scores.to_csv("data/football_scores.csv", index=False)
 
 
 
