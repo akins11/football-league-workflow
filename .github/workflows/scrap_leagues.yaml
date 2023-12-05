@@ -2,7 +2,7 @@ name: Update Europe Top Football Leagues Standings & Last League Game Scores.
 
 on:
   schedule:
-    - cron: '0 1 * * 2'
+    - cron: '0 1 * * 2,5'
   
 jobs:
   update-data:
