@@ -1807,6 +1807,26 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 19,18,Verona,19,3,5,11,16,26,-10,14,Seria A
 19,19,Empoli,19,3,4,12,10,33,-23,13,Seria A
 19,20,Salernitana,19,2,6,11,16,38,-22,12,Seria A
+19,1,Inter Milan,19,15,3,1,44,9,35,48,Seria A
+19,2,Juventus,19,14,4,1,29,12,17,46,Seria A
+19,3,AC Milan,19,12,3,4,35,20,15,39,Seria A
+19,4,Fiorentina,19,10,3,6,27,19,8,33,Seria A
+19,5,Bologna,19,8,8,3,22,16,6,32,Seria A
+19,6,Atalanta,19,9,3,7,30,21,9,30,Seria A
+19,7,Lazio,19,9,3,7,23,20,3,30,Seria A
+19,8,Roma,19,8,5,6,31,21,10,29,Seria A
+19,9,Napoli,19,8,4,7,28,24,4,28,Seria A
+19,10,Torino,19,7,6,6,18,18,0,27,Seria A
+19,11,Monza,19,6,7,6,19,20,-1,25,Seria A
+19,12,Genoa,19,5,6,8,20,24,-4,21,Seria A
+19,13,Lecce,19,4,9,6,20,25,-5,21,Seria A
+19,14,Sassuolo,19,5,4,10,26,33,-7,19,Seria A
+19,15,Frosinone,19,5,4,10,25,34,-9,19,Seria A
+19,16,Udinese,19,2,11,6,19,30,-11,17,Seria A
+19,17,Cagliari,19,3,6,10,17,32,-15,15,Seria A
+19,18,Verona,19,3,5,11,16,26,-10,14,Seria A
+19,19,Empoli,19,3,4,12,10,33,-23,13,Seria A
+19,20,Salernitana,19,2,6,11,16,38,-22,12,Seria A
 1,1,Atletico Madrid,1,1,0,0,3,1,2,3,la liga
 1,2,Real Madrid,1,1,0,0,2,0,2,3,la liga
 1,3,Osasuna,1,1,0,0,2,0,2,3,la liga
