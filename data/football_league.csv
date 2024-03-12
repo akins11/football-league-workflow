@@ -431,24 +431,24 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 24,16,Cologne,24,3,8,13,16,39,-23,17,Bundesliga
 24,17,Mainz,24,2,10,12,19,38,-19,16,Bundesliga
 24,18,SV Darmstadt 98,24,2,7,15,24,58,-34,13,Bundesliga
-24,1,Bayer Leverkusen,24,20,4,0,61,16,45,64,Bundesliga
-24,2,Bayern Munich,24,17,3,4,65,28,37,54,Bundesliga
-24,3,Stuttgart,24,16,2,6,55,31,24,50,Bundesliga
-24,4,Borussia Dortmund,24,12,8,4,48,30,18,44,Bundesliga
-24,5,RB Leipzig,24,13,4,7,53,31,22,43,Bundesliga
-24,6,Eintracht Frankfurt,24,9,10,5,38,31,7,37,Bundesliga
-24,7,Hoffenheim,24,9,6,9,43,44,-1,33,Bundesliga
-24,8,Werder Bremen,24,8,6,10,33,37,-4,30,Bundesliga
-24,9,SC Freiburg,24,8,6,10,32,44,-12,30,Bundesliga
-24,10,FC Augsburg,24,7,8,9,39,41,-2,29,Bundesliga
-24,11,FC Heidenheim 1846,24,7,7,10,34,42,-8,28,Bundesliga
-24,12,M'gladbach,24,6,8,10,42,46,-4,26,Bundesliga
-24,13,Wolfsburg,24,6,7,11,30,39,-9,25,Bundesliga
-24,14,FC Union Berlin,24,7,4,13,23,39,-16,25,Bundesliga
-24,15,Bochum,24,5,10,9,29,50,-21,25,Bundesliga
-24,16,Cologne,24,3,8,13,16,39,-23,17,Bundesliga
-24,17,Mainz,24,2,10,12,19,38,-19,16,Bundesliga
-24,18,SV Darmstadt 98,24,2,7,15,24,58,-34,13,Bundesliga
+25,1,Bayer Leverkusen,25,21,4,0,63,16,47,67,Bundesliga
+25,2,Bayern Munich,25,18,3,4,73,29,44,57,Bundesliga
+25,3,Stuttgart,25,17,2,6,57,31,26,53,Bundesliga
+25,4,Borussia Dortmund,25,13,8,4,50,31,19,47,Bundesliga
+25,5,RB Leipzig,25,14,4,7,55,31,24,46,Bundesliga
+25,6,Eintracht Frankfurt,25,10,10,5,41,32,9,40,Bundesliga
+25,7,Hoffenheim,25,9,6,10,44,47,-3,33,Bundesliga
+25,8,SC Freiburg,25,9,6,10,34,45,-11,33,Bundesliga
+25,9,FC Augsburg,25,8,8,9,40,41,-1,32,Bundesliga
+25,10,Werder Bremen,25,8,6,11,34,39,-5,30,Bundesliga
+25,11,FC Heidenheim 1846,25,7,7,11,34,43,-9,28,Bundesliga
+25,12,M'gladbach,25,6,9,10,45,49,-4,27,Bundesliga
+25,13,Wolfsburg,25,6,7,12,30,41,-11,25,Bundesliga
+25,14,FC Union Berlin,25,7,4,14,23,41,-18,25,Bundesliga
+25,15,Bochum,25,5,10,10,30,52,-22,25,Bundesliga
+25,16,Cologne,25,3,9,13,19,42,-23,18,Bundesliga
+25,17,Mainz,25,2,10,13,20,46,-26,16,Bundesliga
+25,18,SV Darmstadt 98,25,2,7,16,24,60,-36,13,Bundesliga
 7,1,PSV Eindhoven,7,7,0,0,23,2,21,21,Eredivisie
 7,2,AZ Alkmaar,7,6,1,0,20,3,17,19,Eredivisie
 7,3,FC Twente,7,6,0,1,14,4,10,18,Eredivisie
@@ -773,24 +773,24 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 24,16,RKC Waalwijk,24,5,3,16,20,41,-21,18,Eredivisie
 24,17,Vitesse Arnhem,24,4,4,16,19,49,-30,16,Eredivisie
 24,18,FC Volendam,24,3,4,17,25,62,-37,13,Eredivisie
-24,1,PSV Eindhoven,24,21,3,0,79,13,66,66,Eredivisie
-24,2,Feyenoord,24,17,5,2,60,19,41,56,Eredivisie
-24,3,FC Twente,24,15,5,4,47,23,24,50,Eredivisie
-24,4,AZ Alkmaar,24,12,7,5,45,23,22,43,Eredivisie
-24,5,Ajax,24,11,6,7,53,43,10,39,Eredivisie
-24,6,Go Ahead Eagles,24,10,7,7,38,32,6,37,Eredivisie
-24,7,NEC Nijmegen,24,9,9,6,48,39,9,36,Eredivisie
-24,8,FC Utrecht,24,8,8,8,29,32,-3,32,Eredivisie
-24,9,Heerenveen,24,9,4,11,40,44,-4,31,Eredivisie
-24,10,Sparta Rotterdam,24,8,6,10,30,34,-4,30,Eredivisie
-24,11,Fortuna Sittard,24,8,6,10,28,41,-13,30,Eredivisie
-24,12,Almere City FC,24,7,7,10,24,41,-17,28,Eredivisie
-24,13,PEC Zwolle,24,7,6,11,32,43,-11,27,Eredivisie
-24,14,Heracles Almelo,24,6,5,13,31,55,-24,23,Eredivisie
-24,15,Excelsior,24,4,9,11,38,52,-14,21,Eredivisie
-24,16,RKC Waalwijk,24,5,3,16,20,41,-21,18,Eredivisie
-24,17,Vitesse Arnhem,24,4,4,16,19,49,-30,16,Eredivisie
-24,18,FC Volendam,24,3,4,17,25,62,-37,13,Eredivisie
+25,1,PSV Eindhoven,25,22,3,0,80,13,67,69,Eredivisie
+25,2,Feyenoord,25,18,5,2,63,19,44,59,Eredivisie
+25,3,FC Twente,25,16,5,4,49,24,25,53,Eredivisie
+25,4,AZ Alkmaar,25,13,7,5,49,23,26,46,Eredivisie
+25,5,Ajax,25,11,7,7,55,45,10,40,Eredivisie
+25,6,NEC Nijmegen,25,10,9,6,50,39,11,39,Eredivisie
+25,7,Go Ahead Eagles,25,10,7,8,38,33,5,37,Eredivisie
+25,8,FC Utrecht,25,8,9,8,30,33,-3,33,Eredivisie
+25,9,Heerenveen,25,9,4,12,40,46,-6,31,Eredivisie
+25,10,Fortuna Sittard,25,8,7,10,30,43,-13,31,Eredivisie
+25,11,Sparta Rotterdam,25,8,6,11,31,36,-5,30,Eredivisie
+25,12,Almere City FC,25,7,8,10,25,42,-17,29,Eredivisie
+25,13,PEC Zwolle,25,7,7,11,33,44,-11,28,Eredivisie
+25,14,Heracles Almelo,25,6,5,14,31,58,-27,23,Eredivisie
+25,15,Excelsior,25,4,9,12,38,56,-18,21,Eredivisie
+25,16,RKC Waalwijk,25,6,3,16,23,42,-19,21,Eredivisie
+25,17,Vitesse Arnhem,25,4,4,17,20,52,-32,16,Eredivisie
+25,18,FC Volendam,25,3,5,17,26,63,-37,14,Eredivisie
 1,1,Rennes,1,1,0,0,5,1,4,3,Ligue 1
 1,2,Monaco,1,1,0,0,4,2,2,3,Ligue 1
 1,3,Brest,1,1,0,0,3,2,1,3,Ligue 1
@@ -1223,24 +1223,24 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 24,16,Montpellier,24,5,9,10,27,33,-6,23,Ligue 1
 24,17,Metz,24,5,5,14,21,37,-16,20,Ligue 1
 24,18,Clermont,24,3,8,13,17,41,-24,17,Ligue 1
-24,1,Paris Saint-Germain,24,16,7,1,54,19,35,55,Ligue 1
-24,2,Brest,24,13,7,4,35,18,17,46,Ligue 1
-24,3,Monaco,24,12,6,6,44,34,10,42,Ligue 1
-24,4,Lille,24,11,8,5,34,20,14,41,Ligue 1
-24,5,Nice,24,11,7,6,23,17,6,40,Ligue 1
-24,6,RC Lens,24,11,6,7,33,24,9,39,Ligue 1
-24,7,Marseille,24,9,9,6,38,26,12,36,Ligue 1
-24,8,Rennes,24,9,8,7,36,29,7,35,Ligue 1
-24,9,Reims,24,10,4,10,30,32,-2,34,Ligue 1
-24,10,Toulouse,24,7,8,9,27,32,-5,29,Ligue 1
-24,11,Lyon,24,8,4,12,25,38,-13,28,Ligue 1
-24,12,Strasbourg,24,6,8,10,25,37,-12,26,Ligue 1
-24,13,Lorient,24,6,7,11,33,45,-12,25,Ligue 1
-24,14,Nantes,24,7,4,13,23,36,-13,25,Ligue 1
-24,15,Le Havre,24,5,9,10,24,31,-7,24,Ligue 1
-24,16,Montpellier,24,5,9,10,27,33,-6,23,Ligue 1
-24,17,Metz,24,5,5,14,21,37,-16,20,Ligue 1
-24,18,Clermont,24,3,8,13,17,41,-24,17,Ligue 1
+25,1,Paris Saint-Germain,25,16,8,1,56,21,35,56,Ligue 1
+25,2,Brest,25,13,7,5,35,19,16,46,Ligue 1
+25,3,Monaco,25,13,6,6,45,34,11,45,Ligue 1
+25,4,Lille,25,11,9,5,36,22,14,42,Ligue 1
+25,5,RC Lens,25,12,6,7,34,24,10,42,Ligue 1
+25,6,Nice,25,11,7,7,24,19,5,40,Ligue 1
+25,7,Marseille,25,10,9,6,40,26,14,39,Ligue 1
+25,8,Rennes,25,9,9,7,38,31,7,36,Ligue 1
+25,9,Reims,25,10,5,10,32,34,-2,35,Ligue 1
+25,10,Lyon,25,9,4,12,27,38,-11,31,Ligue 1
+25,11,Toulouse,25,7,8,10,27,33,-6,29,Ligue 1
+25,12,Le Havre,25,6,9,10,25,31,-6,27,Ligue 1
+25,13,Montpellier,25,6,9,10,29,34,-5,26,Ligue 1
+25,14,Strasbourg,25,6,8,11,25,38,-13,26,Ligue 1
+25,15,Lorient,25,6,7,12,33,47,-14,25,Ligue 1
+25,16,Nantes,25,7,4,14,23,38,-15,25,Ligue 1
+25,17,Metz,25,6,5,14,22,37,-15,23,Ligue 1
+25,18,Clermont,25,3,8,14,17,42,-25,17,Ligue 1
 1,1,Newcastle United,1,1,0,0,5,1,4,3,Premier League
 1,2,Brighton and Hove Albion,1,1,0,0,4,1,3,3,Premier League
 1,3,Manchester City,1,1,0,0,3,0,3,3,Premier League
@@ -1781,26 +1781,26 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 27,18,Luton Town,26,5,5,16,37,54,-17,20,Premier League
 27,19,Burnley,27,3,4,20,25,60,-35,13,Premier League
 27,20,Sheffield United,27,3,4,20,22,72,-50,13,Premier League
-27,1,Liverpool,27,19,6,2,64,25,39,63,Premier League
-27,2,Manchester City,27,19,5,3,62,27,35,62,Premier League
-27,3,Arsenal,27,19,4,4,68,23,45,61,Premier League
-27,4,Aston Villa,27,17,4,6,59,37,22,55,Premier League
-27,5,Tottenham Hotspur,26,15,5,6,55,39,16,50,Premier League
-27,6,Manchester United,27,14,2,11,37,39,-2,44,Premier League
-27,7,West Ham United,27,12,6,9,43,47,-4,42,Premier League
-27,8,Newcastle United,27,12,4,11,57,45,12,40,Premier League
-27,9,Brighton and Hove Albion,27,10,9,8,49,44,5,39,Premier League
-27,10,Wolverhampton Wanderers,27,11,5,11,40,43,-3,38,Premier League
-27,11,Chelsea,26,10,6,10,44,43,1,36,Premier League
-27,12,Fulham,27,10,5,12,39,42,-3,35,Premier League
-27,13,Bournemouth,26,8,7,11,35,47,-12,31,Premier League
-27,14,Crystal Palace,27,7,7,13,32,47,-15,28,Premier League
-27,15,Brentford,27,7,5,15,39,50,-11,26,Premier League
-27,16,Everton,27,8,7,12,29,37,-8,25,Premier League
-27,17,Nottingham Forest,27,6,6,15,34,49,-15,24,Premier League
-27,18,Luton Town,26,5,5,16,37,54,-17,20,Premier League
-27,19,Burnley,27,3,4,20,25,60,-35,13,Premier League
-27,20,Sheffield United,27,3,4,20,22,72,-50,13,Premier League
+28,1,Arsenal,28,20,4,4,70,24,46,64,Premier League
+28,2,Liverpool,28,19,7,2,65,26,39,64,Premier League
+28,3,Manchester City,28,19,6,3,63,28,35,63,Premier League
+28,4,Aston Villa,28,17,4,7,59,41,18,55,Premier League
+28,5,Tottenham Hotspur,27,16,5,6,59,39,20,53,Premier League
+28,6,Manchester United,28,15,2,11,39,39,0,47,Premier League
+28,7,West Ham United,28,12,7,9,45,49,-4,43,Premier League
+28,8,Brighton and Hove Albion,28,11,9,8,50,44,6,42,Premier League
+28,9,Wolverhampton Wanderers,28,12,5,11,42,44,-2,41,Premier League
+28,10,Newcastle United,28,12,4,12,59,48,11,40,Premier League
+28,11,Chelsea,27,11,6,10,47,45,2,39,Premier League
+28,12,Fulham,28,10,5,13,40,44,-4,35,Premier League
+28,13,Bournemouth,27,8,8,11,37,49,-12,32,Premier League
+28,14,Crystal Palace,28,7,8,13,33,48,-15,29,Premier League
+28,15,Brentford,28,7,5,16,40,52,-12,26,Premier League
+28,16,Everton,28,8,7,13,29,39,-10,25,Premier League
+28,17,Nottingham Forest,28,6,6,16,34,50,-16,24,Premier League
+28,18,Luton Town,27,5,6,16,38,55,-17,21,Premier League
+28,19,Burnley,28,3,5,20,27,62,-35,14,Premier League
+28,20,Sheffield United,28,3,5,20,24,74,-50,14,Premier League
 7,1,Celtic,7,6,1,0,16,4,12,19,Scottish premiership
 7,2,St Mirren,7,4,3,0,11,7,4,15,Scottish premiership
 7,3,Rangers,7,4,0,3,10,5,5,12,Scottish premiership
@@ -2617,26 +2617,26 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 27,18,Cagliari,27,5,8,14,25,47,-22,23,Seria A
 27,19,Sassuolo,27,5,5,17,32,55,-23,20,Seria A
 27,20,Salernitana,27,2,8,17,21,54,-33,14,Seria A
-27,1,Inter Milan,27,23,3,1,69,13,56,72,Seria A
-27,2,Juventus,27,17,6,4,42,21,21,57,Seria A
-27,3,AC Milan,27,17,5,5,51,32,19,56,Seria A
-27,4,Bologna,27,14,9,4,41,24,17,51,Seria A
-27,5,Roma,27,14,5,8,52,33,19,47,Seria A
-27,6,Atalanta,27,14,4,9,49,30,19,46,Seria A
-27,7,Napoli,27,12,7,8,42,31,11,43,Seria A
-27,8,Fiorentina,27,12,6,9,39,30,9,42,Seria A
-27,9,Lazio,27,12,4,11,32,29,3,40,Seria A
-27,10,Torino,27,9,10,8,25,25,0,37,Seria A
-27,11,Monza,27,9,9,9,28,34,-6,36,Seria A
-27,12,Genoa,27,8,9,10,29,33,-4,33,Seria A
-27,13,Lecce,27,5,10,12,25,44,-19,25,Seria A
-27,14,Empoli,27,6,7,14,22,41,-19,25,Seria A
-27,15,Udinese,27,3,15,9,26,41,-15,24,Seria A
-27,16,Frosinone,27,6,6,15,35,56,-21,24,Seria A
-27,17,Verona,27,5,8,14,24,36,-12,23,Seria A
-27,18,Cagliari,27,5,8,14,25,47,-22,23,Seria A
-27,19,Sassuolo,27,5,5,17,32,55,-23,20,Seria A
-27,20,Salernitana,27,2,8,17,21,54,-33,14,Seria A
+28,1,Inter Milan,28,24,3,1,70,13,57,75,Seria A
+28,2,AC Milan,28,18,5,5,52,32,20,59,Seria A
+28,3,Juventus,28,17,7,4,44,23,21,58,Seria A
+28,4,Bologna,28,14,9,5,41,25,16,51,Seria A
+28,5,Roma,28,14,6,8,54,35,19,48,Seria A
+28,6,Atalanta,28,14,5,9,51,32,19,47,Seria A
+28,7,Napoli,28,12,8,8,43,32,11,44,Seria A
+28,8,Fiorentina,28,12,7,9,41,32,9,43,Seria A
+28,9,Lazio,28,12,4,12,33,31,2,40,Seria A
+28,10,Monza,28,10,9,9,31,36,-5,39,Seria A
+28,11,Torino,28,9,11,8,26,26,0,38,Seria A
+28,12,Genoa,28,8,9,11,31,36,-5,33,Seria A
+28,13,Udinese,28,4,15,9,28,42,-14,27,Seria A
+28,14,Verona,28,6,8,14,25,36,-11,26,Seria A
+28,15,Cagliari,28,6,8,14,29,49,-20,26,Seria A
+28,16,Lecce,28,5,10,13,25,45,-20,25,Seria A
+28,17,Empoli,28,6,7,15,22,42,-20,25,Seria A
+28,18,Frosinone,28,6,6,16,35,57,-22,24,Seria A
+28,19,Sassuolo,28,6,5,17,33,55,-22,23,Seria A
+28,20,Salernitana,28,2,8,18,23,58,-35,14,Seria A
 1,1,Atletico Madrid,1,1,0,0,3,1,2,3,la liga
 1,2,Real Madrid,1,1,0,0,2,0,2,3,la liga
 1,3,Osasuna,1,1,0,0,2,0,2,3,la liga
@@ -3177,23 +3177,23 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 27,18,Cadiz,27,2,13,12,18,38,-20,19,la liga
 27,19,Granada,26,2,8,16,28,54,-26,14,la liga
 27,20,Almeria,27,0,9,18,25,55,-30,9,la liga
-27,1,Real Madrid,27,20,6,1,56,18,38,66,la liga
-27,2,Girona,27,18,5,4,57,33,24,59,la liga
-27,3,Barcelona,27,17,7,3,56,34,22,58,la liga
-27,4,Atletico Madrid,27,17,4,6,54,29,25,55,la liga
-27,5,Athletic Bilbao,27,14,8,5,46,26,20,50,la liga
-27,6,Real Betis,27,10,12,5,32,28,4,42,la liga
-27,7,Real Sociedad,27,10,10,7,37,29,8,40,la liga
-27,8,Las Palmas,27,10,7,10,29,29,0,37,la liga
-27,9,Valencia,26,10,7,9,31,31,0,37,la liga
-27,10,Osasuna,27,10,6,11,31,37,-6,36,la liga
-27,11,Getafe,27,8,11,8,36,41,-5,35,la liga
-27,12,Villarreal,27,8,8,11,43,49,-6,32,la liga
-27,13,Alaves,27,7,8,12,25,33,-8,29,la liga
-27,14,Sevilla,27,6,9,12,33,40,-7,27,la liga
-27,15,Real Mallorca,27,5,12,10,24,34,-10,27,la liga
-27,16,Rayo Vallecano,27,5,11,11,23,37,-14,26,la liga
-27,17,Celta Vigo,27,5,9,13,30,39,-9,24,la liga
-27,18,Cadiz,27,2,13,12,18,38,-20,19,la liga
-27,19,Granada,26,2,8,16,28,54,-26,14,la liga
-27,20,Almeria,27,0,9,18,25,55,-30,9,la liga
+28,1,Real Madrid,28,21,6,1,60,18,42,69,la liga
+28,2,Girona,28,19,5,4,59,33,26,62,la liga
+28,3,Barcelona,28,18,7,3,57,34,23,61,la liga
+28,4,Atletico Madrid,28,17,4,7,54,31,23,55,la liga
+28,5,Athletic Bilbao,28,15,8,5,48,26,22,53,la liga
+28,6,Real Sociedad,28,11,10,7,40,31,9,43,la liga
+28,7,Real Betis,28,10,12,6,34,31,3,42,la liga
+28,8,Valencia,27,11,7,9,32,31,1,40,la liga
+28,9,Las Palmas,28,10,7,11,29,31,-2,37,la liga
+28,10,Osasuna,28,10,6,12,31,39,-8,36,la liga
+28,11,Villarreal,28,9,8,11,46,51,-5,35,la liga
+28,12,Getafe,28,8,11,9,36,42,-6,35,la liga
+28,13,Alaves,28,8,8,12,26,33,-7,32,la liga
+28,14,Sevilla,28,6,10,12,35,42,-7,28,la liga
+28,15,Real Mallorca,28,5,12,11,24,35,-11,27,la liga
+28,16,Rayo Vallecano,28,5,11,12,23,38,-15,26,la liga
+28,17,Celta Vigo,28,5,9,14,30,43,-13,24,la liga
+28,18,Cadiz,28,3,13,12,20,38,-18,22,la liga
+28,19,Granada,27,2,8,17,30,57,-27,14,la liga
+28,20,Almeria,28,0,10,18,27,57,-30,10,la liga
