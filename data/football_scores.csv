@@ -1,169 +1,267 @@
 home_team,scores,away_team,type
-AC Milan,0 1,Roma,current
-Bayer Leverkusen,2 0,West Ham United,current
-Benfica,2 1,Marseille,current
-Liverpool,0 3,Atalanta,current
-AFC Fylde,2 0,Gateshead,current
-Wealdstone,4 2,Dorking Wanderers,current
-FC Viktoria Plzen,0 0,Fiorentina,current
-Olympiakos FC,3 2,Fenerbahce,current
-Aston Villa,2 1,Lille,current
-Club Brugge,1 0,PAOK Salonika,current
-Liverpool Marshall Feds LFC,1 1,Stoke City Ladies,current
-HJK Helsinki,4 0,FC Lahti,current
-Potters Bar Town,2 3,Margate,current
-Farnborough,3 1,Chippenham Town,current
-Taunton,0 4,Slough,current
-Truro City,0 2,Yeovil Town,current
-Spennymoor Town,5 2,Banbury,current
-Hanwell Town,2 3,Sholing,current
-Plymouth Parkway,0 1,Salisbury FC,current
-Atletico Madrid,2 1,Borussia Dortmund,current
-Paris Saint-Germain,2 3,Barcelona,current
-Birmingham City,0 1,Cardiff City,current
-Bristol City,5 0,Blackburn Rovers,current
-Hull City,2 2,Middlesbrough,current
-Ipswich Town,0 0,Watford,current
-Swansea City,3 0,Stoke City,current
-West Bromwich Albion,2 0,Rotherham United,current
-Peterborough United,3 0,Port Vale,current
-Wycombe Wanderers,0 0,Derby County,current
-Ferencvaros,2 1,Diosgyor VTK,current
-Qingdao West Coast,1 3,Tianjin Teda,current
-Chengdu Rongcheng,3 0,Hangzhou Greentown,current
-Shijiazhuang Ever Bright,2 0,Changchun Yatai,current
-Meizhou Hakka,0 0,Qingdao Jonoon,current
-Yokohama F. Marinos,2 0,Gamba Osaka,current
-Havant and Waterlooville,0 0,Welling United,current
-Truro City,0 0,Eastbourne Borough,current
-AFC Totton,3 2,Bracknell Town,current
-Arsenal,2 2,Bayern Munich,current
-Real Madrid,3 3,Manchester City,current
-Millwall,1 0,Leicester City,current
-Plymouth Argyle,1 1,Queens Park Rangers,current
-Preston North End,4 1,Huddersfield Town,current
-Sheffield Wednesday,2 2,Norwich City,current
-Southampton,2 1,Coventry City,current
-Leeds United,0 0,Sunderland,current
-Blackpool,1 0,Fleetwood Town,current
-Bristol Rovers,0 2,Reading,current
-Charlton Athletic,2 2,Wigan Athletic,current
-Cheltenham Town,0 1,Carlisle United,current
-Leyton Orient,2 2,Exeter City,current
-Stevenage,2 1,Barnsley,current
-Colchester United,1 2,Stockport County,current
-Doncaster Rovers,2 1,Walsall,current
-Harrogate Town,1 0,Grimsby Town,current
-Mansfield Town,1 0,Forest Green Rovers,current
-Morecambe,0 1,Crewe Alexandra,current
-Newport County AFC,1 3,Accrington Stanley,current
-Wrexham,4 1,Crawley Town,current
-Ayr United,1 1,Morton,current
-Raith Rovers,1 3,Airdrieonians,current
-Barnet,1 1,Bromley,current
-Maidenhead United,3 1,Hartlepool United,current
-Solihull Moors,3 0,Ebbsfleet United,current
-Wealdstone,1 2,Southend United,current
-Pontypridd United,0 0,Aberystwyth Town,current
-The New Saints FC,4 1,Bala Town FC,current
-Kettering Town,2 2,Leiston,current
-Needham Market,0 3,Stamford,current
-Stourbridge,1 1,Leamington,current
-Nantong Zhiyun,0 3,Shanghai SIPG,current
-Beijing Guoan,1 2,Shenzhen Xinpengcheng,current
-Shandong Luneng,2 2,Henan Jianye,current
-Shanghai Shenhua,4 1,Wuhan Three Towns,current
-Braintree Town,0 0,Taunton,current
-Dartford,1 2,Worthing,current
-Hampton & Richmond,0 1,Bath City,current
-Maidstone Utd,2 0,Weymouth,current
-Weston-s-Mare,2 1,Chippenham Town,current
-Canvey Island,0 2,Lewes,current
-Hornchurch,2 0,Cray Wanderers,current
-Potters Bar Town,0 1,Horsham,current
-Whitehawk,4 0,Concord Rangers,current
-Wingate & Finchley,2 2,Hastings United,current
-Alfreton Town,3 0,Gloucester,current
-Kings Lynn Town,1 0,Chorley,current
-Peterborough Sports,1 0,Farsley,current
-Rushall Olympic,4 0,Bishops Stortford,current
-Hayes & Yeading,1 0,Basingstoke Town,current
-Plymouth Parkway,1 3,Harrow Borough,current
-Poole Town,2 1,Winchester City,current
-Sholing,1 2,Dorchester,current
-Tiverton Town,1 2,Gosport Borough,current
-Udinese,1 2,Inter Milan,current
-IFK Värnamo,1 2,GAIS,current
-Kalmar FF,1 2,IK Sirius,current
-Djurgardens IF,3 3,Hacken,current
-Brondby,1 1,Silkeborg,current
-Zaglebie Lubin,1 2,Gornik Zabrze,current
-Casa Pia AC,0 0,Estoril,current
-Truro City,1 2,Torquay United,current
-Manchester United,2 2,Liverpool,current
-Sheffield United,2 2,Chelsea,current
-Tottenham Hotspur,3 1,Nottingham Forest,current
-Rangers,3 3,Celtic,current
-Peterborough United,2 1,Wycombe Wanderers,current
-Hoffenheim,3 1,FC Augsburg,current
-Wolfsburg,1 3,M'gladbach,current
-Frosinone,0 0,Bologna,current
-Monza,2 4,Napoli,current
-Cagliari,2 1,Atalanta,current
-Verona,1 2,Genoa,current
-Juventus,1 0,Fiorentina,current
-Brest,4 3,Metz,current
-Montpellier,2 0,Lorient,current
-Reims,0 0,Nice,current
-Toulouse,0 0,Strasbourg,current
-Monaco,1 0,Rennes,current
-Nantes,1 3,Lyon,current
-Vitesse Arnhem,0 3,NEC Nijmegen,current
-Feyenoord,6 0,Ajax,current
-Go Ahead Eagles,1 1,Almere City FC,current
-FC Volendam,3 2,RKC Waalwijk,current
-Heerenveen,2 3,FC Utrecht,current
-Columbus Crew,1 1,D.C. United,current
-FC Cincinnati,1 2,New York Red Bulls,current
-Inter Miami CF,2 2,Colorado Rapids,current
-New England Revolution,1 0,Charlotte FC,current
-New York City FC,1 1,Atlanta United FC,current
-Vancouver Whitecaps,4 0,Toronto FC,current
-Los Angeles Football Club,2 1,Los Angeles Galaxy,current
-Austin FC,4 3,San Jose Earthquakes,current
-Chicago Fire,2 1,Houston Dynamo,current
-Minnesota United FC,1 1,Real Salt Lake,current
-Nashville SC,1 2,Philadelphia Union,current
-St. Louis City SC,0 0,FC Dallas,current
-Seattle Sounders FC,5 0,CF Montréal,current
-Sporting Kansas City,3 3,Portland Timbers,current
-Lamia,1 5,Olympiakos FC,current
-Aris Salonika,0 2,Panathinaikos,current
-AEK Athens,2 2,PAOK Salonika,current
-HamKam,0 1,Molde,current
-Haugesund,0 2,Lillestrom,current
-Sarpsborg,0 1,Odd Grenland,current
-Stromsgodset,1 0,Rosenborg,current
-Brann,0 2,Fredrikstad,current
-Hvidovre IF,1 3,Randers FC,current
-Vejle BK,1 1,Viborg FF,current
-FC Nordsjaelland,2 1,FC Copenhagen,current
-AGF Aarhus,0 1,FC Midtjylland,current
-Widzew Lodz,1 0,Piast Gliwice,current
-Lech Poznan,1 0,Pogon Szczecin,current
-Legia Warsaw,1 1,Jagiellonia Bialystok,current
-Ferencvaros,1 0,Paksi SE,current
-Kecskemeti TE,1 2,Puskas FC,current
-SK Austria Klagenfurt,2 2,Hartberg,current
-Sturm Graz,1 0,Linz ASK,current
-Red Bull Salzburg,1 1,SK Rapid Wien,current
-Halmstads BK,1 0,IFK Gothenburg,current
-Malmo FF,2 0,Hammarby IF,current
-Västerås SK,0 1,IF Elfsborg,current
-Ascoli,0 0,Venezia,current
-Fortuna Dusseldorf,2 0,Eintracht Braunschweig,current
-Hannover 96,1 1,Schalke,current
-VfL Osnabruck,2 0,Greuther Furth,current
+Chelsea,6 0,Everton,current
+Gateshead,2 1,Chesterfield,current
+Osasuna,0 1,Valencia,current
+Fiorentina,1 1,Genoa,current
+Atalanta,2 2,Verona,current
+Bohemians,1 0,Dundalk,current
+Hacken,4 3,Brommapojkarna,current
+IFK Värnamo,0 4,Malmo FF,current
+Hammarby IF,3 0,IF Elfsborg,current
+Silkeborg,0 1,FC Nordsjaelland,current
+Piast Gliwice,2 0,Zaglebie Lubin,current
+Vizela,0 1,GD Chaves,current
+Liverpool,0 1,Crystal Palace,current
+West Ham United,0 2,Fulham,current
+Arsenal,0 2,Aston Villa,current
+Rangers Women,4 1,Glasgow City,current
+SV Darmstadt 98,0 1,SC Freiburg,current
+Bayer Leverkusen,5 0,Werder Bremen,current
+Las Palmas,0 2,Sevilla,current
+Granada,2 0,Alaves,current
+Athletic Bilbao,1 1,Villarreal,current
+Real Sociedad,2 2,Almeria,current
+Napoli,2 2,Frosinone,current
+Sassuolo,3 3,AC Milan,current
+Inter Milan,2 2,Cagliari,current
+Le Havre,0 1,Nantes,current
+Clermont,1 1,Montpellier,current
+Lyon,4 3,Brest,current
+Stourbridge Ladies,2 3,Liverpool Marshall Feds LFC,current
+Heracles Almelo,0 2,Heerenveen,current
+FC Utrecht,2 1,Go Ahead Eagles,current
+Fortuna Sittard,0 1,Feyenoord,current
+Ajax,2 1,FC Twente,current
+NEC Nijmegen,2 2,PEC Zwolle,current
+CF Montréal,2 1,FC Cincinnati,current
+Charlotte FC,3 2,Toronto FC,current
+D.C. United,2 3,Orlando City SC,current
+New York City FC,2 0,New England Revolution,current
+New York Red Bulls,0 0,Chicago Fire,current
+FC Dallas,0 0,Seattle Sounders FC,current
+Minnesota United FC,1 2,Houston Dynamo,current
+Sporting Kansas City,2 3,Inter Miami CF,current
+Real Salt Lake,0 0,Columbus Crew,current
+San Jose Earthquakes,0 3,Colorado Rapids,current
+Vancouver Whitecaps,1 3,Los Angeles Galaxy,current
+Atlanta United FC,2 2,Philadelphia Union,current
+St. Louis City SC,1 0,Austin FC,current
+Panathinaikos,3 1,Lamia,current
+AEK Athens,2 0,Aris Salonika,current
+Viking,1 1,Brann,current
+Molde,2 0,Kristiansund BK,current
+Odd Grenland,2 2,Sandefjord,current
+Rosenborg,1 0,HamKam,current
+Tromso,0 1,Haugesund,current
+Lillestrom,0 5,Bodo/Glimt,current
+MTK Budapest,1 1,Diosgyor VTK,current
+Zalaegerszegi TE,2 3,Ferencvaros,current
+Mezokovesd Zsory,0 4,Puskas FC,current
+Nürnberg Ladies,0 4,SGS Essen,current
+Lyngby BK,1 1,Hvidovre IF,current
+Vejle BK,1 2,Randers FC,current
+AGF Aarhus,2 2,Brondby,current
+FC Midtjylland,2 2,FC Copenhagen,current
+LKS Lódz,3 2,Radomiak Radom,current
+Jagiellonia Bialystok,1 3,Cracovia,current
+Gornik Zabrze,2 0,Slask Wroclaw,current
+Hartberg,1 3,Sturm Graz,current
+SK Rapid Wien,1 1,SK Austria Klagenfurt,current
+Kalmar FF,0 1,IFK Gothenburg,current
+Norrkoping,1 0,GAIS,current
+Djurgardens IF,2 0,IK Sirius,current
+Venezia,2 0,Brescia,current
+Changchun Yatai,1 2,Chengdu Rongcheng,current
+Tianjin Teda,0 0,Meizhou Hakka,current
+Qingdao Jonoon,2 0,Hangzhou Greentown,current
+Shanghai SIPG,4 3,Shandong Luneng,current
+Shijiazhuang Ever Bright,3 2,Qingdao West Coast,current
+Shenzhen Xinpengcheng,1 1,Wuhan Three Towns,current
+Eintracht Braunschweig,0 0,Hannover 96,current
+Magdeburg,2 2,Hamburg,current
+St Pauli,3 4,SV 07 Elversberg,current
+Gamba Osaka,2 1,Sagan Tosu,current
+Melbourne City FC,8 0,Perth Glory,current
+Estrela,2 2,Rio Ave,current
+Arouca,2 1,Boavista,current
+Portimonense,2 2,Casa Pia AC,current
+Benfica,3 0,Moreirense,current
+Club Brugge,3 0,Antwerp,current
+KV Kortrijk,1 2,Charleroi,current
+Anderlecht,2 1,Union Saint-Gilloise,current
+Oud-Heverlee Leuven,2 1,AA Gent,current
+Newcastle United,4 0,Tottenham Hotspur,current
+Brentford,2 0,Sheffield United,current
+Burnley,1 1,Brighton and Hove Albion,current
+Manchester City,5 1,Luton Town,current
+Nottingham Forest,2 2,Wolverhampton Wanderers,current
+Bournemouth,2 2,Manchester United,current
+Leeds United,0 1,Blackburn Rovers,current
+Birmingham City,3 0,Coventry City,current
+Bristol City,1 1,Huddersfield Town,current
+Hull City,3 0,Queens Park Rangers,current
+Ipswich Town,1 1,Middlesbrough,current
+Millwall,3 1,Cardiff City,current
+Preston North End,0 1,Norwich City,current
+Sheffield Wednesday,1 1,Stoke City,current
+Southampton,3 2,Watford,current
+Swansea City,1 0,Rotherham United,current
+West Bromwich Albion,0 1,Sunderland,current
+Barnsley,2 2,Reading,current
+Bolton Wanderers,1 1,Portsmouth,current
+Cambridge United,1 1,Charlton Athletic,current
+Carlisle United,0 1,Blackpool,current
+Cheltenham Town,1 3,Bristol Rovers,current
+Derby County,3 0,Leyton Orient,current
+Fleetwood Town,2 0,Northampton Town,current
+Lincoln City,1 2,Wigan Athletic,current
+Oxford United,5 0,Peterborough United,current
+Port Vale,2 4,Exeter City,current
+Shrewsbury Town,0 2,Wycombe Wanderers,current
+Stevenage,1 2,Burton Albion,current
+Crawley Town,2 3,Colchester United,current
+Crewe Alexandra,0 3,Grimsby Town,current
+Doncaster Rovers,4 0,Accrington Stanley,current
+Gillingham,3 0,Barrow,current
+Harrogate Town,2 2,Sutton United,current
+Milton Keynes Dons,1 4,Mansfield Town,current
+Newport County AFC,1 2,Tranmere Rovers,current
+Salford City,1 2,Bradford City,current
+Stockport County,2 0,Morecambe,current
+Swindon Town,3 2,AFC Wimbledon,current
+Walsall,1 3,Notts County,current
+Wrexham,6 0,Forest Green Rovers,current
+Aberdeen,0 0,Dundee,current
+Celtic,3 0,St Mirren,current
+Hearts,4 2,Livingston,current
+Motherwell,1 1,Hibernian,current
+St. Johnstone,0 2,Kilmarnock,current
+Airdrieonians,2 1,Dunfermline Athletic,current
+Ayr United,5 0,Arbroath,current
+Queen's Park,0 1,Inverness CT,current
+Raith Rovers,0 0,Partick Thistle,current
+Alloa Athletic,0 0,Montrose,current
+Annan Athletic,4 2,Cove Rangers,current
+Kelty Hearts,1 0,Stirling Albion,current
+Queen Of The South,2 0,Edinburgh City,current
+Hamilton Academical,0 2,Falkirk,current
+Dumbarton,1 0,Clyde,current
+East Fife,1 4,Bonnyrigg Rose,current
+Peterhead,2 1,Forfar Athletic,current
+Spartans,0 0,Stranraer,current
+Stenhousemuir,1 1,Elgin City,current
+AFC Fylde,0 2,Southend United,current
+Bromley,3 0,Solihull Moors,current
+Ebbsfleet United,0 2,Altrincham,current
+FC Halifax,0 2,Barnet,current
+Hartlepool United,1 1,Dagenham & Redbridge,current
+Kidderminster Harriers,0 1,Eastleigh,current
+Maidenhead United,2 1,Gateshead,current
+Oxford City,0 0,Oldham Athletic,current
+Rochdale,1 1,Dorking Wanderers,current
+Wealdstone,1 0,Chesterfield,current
+York City,2 0,Woking,current
+Aldershot Town,0 3,Boreham Wood,current
+Bayern Munich,2 0,Cologne,current
+Bochum,1 1,1. FC Heidenheim 1846,current
+M'gladbach,1 2,Borussia Dortmund,current
+Mainz,4 1,Hoffenheim,current
+RB Leipzig,3 0,Wolfsburg,current
+Stuttgart,3 0,Eintracht Frankfurt,current
+Atletico Madrid,3 1,Girona,current
+Rayo Vallecano,0 0,Getafe,current
+Real Mallorca,0 1,Real Madrid,current
+Cadiz,0 1,Barcelona,current
+Lecce,1 0,Empoli,current
+AC Milan,0 1,Roma,previous
+Benfica,2 1,Marseille,previous
+FC Viktoria Plzen,0 0,Fiorentina,previous
+Olympiakos FC,3 2,Fenerbahce,previous
+Aston Villa,2 1,Lille,previous
+Club Brugge,1 0,PAOK Salonika,previous
+Liverpool Marshall Feds LFC,1 1,Stoke City Ladies,previous
+HJK Helsinki,4 0,FC Lahti,previous
+Potters Bar Town,2 3,Margate,previous
+Farnborough,3 1,Chippenham Town,previous
+Taunton,0 4,Slough,previous
+Truro City,0 2,Yeovil Town,previous
+Spennymoor Town,5 2,Banbury,previous
+Hanwell Town,2 3,Sholing,previous
+Plymouth Parkway,0 1,Salisbury FC,previous
+Paris Saint-Germain,2 3,Barcelona,previous
+Yokohama F. Marinos,2 0,Gamba Osaka,previous
+Havant and Waterlooville,0 0,Welling United,previous
+Truro City,0 0,Eastbourne Borough,previous
+AFC Totton,3 2,Bracknell Town,previous
+Millwall,1 0,Leicester City,previous
+Plymouth Argyle,1 1,Queens Park Rangers,previous
+Ayr United,1 1,Morton,previous
+Pontypridd United,0 0,Aberystwyth Town,previous
+The New Saints FC,4 1,Bala Town FC,previous
+Kettering Town,2 2,Leiston,previous
+Needham Market,0 3,Stamford,previous
+Stourbridge,1 1,Leamington,previous
+Nantong Zhiyun,0 3,Shanghai SIPG,previous
+Beijing Guoan,1 2,Shenzhen Xinpengcheng,previous
+Shandong Luneng,2 2,Henan Jianye,previous
+Shanghai Shenhua,4 1,Wuhan Three Towns,previous
+Braintree Town,0 0,Taunton,previous
+Dartford,1 2,Worthing,previous
+Hampton & Richmond,0 1,Bath City,previous
+Maidstone Utd,2 0,Weymouth,previous
+Weston-s-Mare,2 1,Chippenham Town,previous
+Canvey Island,0 2,Lewes,previous
+Hornchurch,2 0,Cray Wanderers,previous
+Potters Bar Town,0 1,Horsham,previous
+Whitehawk,4 0,Concord Rangers,previous
+Wingate & Finchley,2 2,Hastings United,previous
+Alfreton Town,3 0,Gloucester,previous
+Kings Lynn Town,1 0,Chorley,previous
+Peterborough Sports,1 0,Farsley,previous
+Rushall Olympic,4 0,Bishops Stortford,previous
+Hayes & Yeading,1 0,Basingstoke Town,previous
+Plymouth Parkway,1 3,Harrow Borough,previous
+Poole Town,2 1,Winchester City,previous
+Sholing,1 2,Dorchester,previous
+Tiverton Town,1 2,Gosport Borough,previous
+Udinese,1 2,Inter Milan,previous
+Casa Pia AC,0 0,Estoril,previous
+Truro City,1 2,Torquay United,previous
+Rangers,3 3,Celtic,previous
+Hoffenheim,3 1,FC Augsburg,previous
+Frosinone,0 0,Bologna,previous
+Monza,2 4,Napoli,previous
+Juventus,1 0,Fiorentina,previous
+Brest,4 3,Metz,previous
+Montpellier,2 0,Lorient,previous
+Reims,0 0,Nice,previous
+Toulouse,0 0,Strasbourg,previous
+Monaco,1 0,Rennes,previous
+Vitesse Arnhem,0 3,NEC Nijmegen,previous
+Go Ahead Eagles,1 1,Almere City FC,previous
+FC Volendam,3 2,RKC Waalwijk,previous
+Los Angeles Football Club,2 1,Los Angeles Galaxy,previous
+Nashville SC,1 2,Philadelphia Union,previous
+Sporting Kansas City,3 3,Portland Timbers,previous
+Lamia,1 5,Olympiakos FC,previous
+AEK Athens,2 2,PAOK Salonika,previous
+Sarpsborg,0 1,Odd Grenland,previous
+Stromsgodset,1 0,Rosenborg,previous
+Brann,0 2,Fredrikstad,previous
+Vejle BK,1 1,Viborg FF,previous
+Widzew Lodz,1 0,Piast Gliwice,previous
+Lech Poznan,1 0,Pogon Szczecin,previous
+Legia Warsaw,1 1,Jagiellonia Bialystok,previous
+Ferencvaros,1 0,Paksi SE,previous
+Kecskemeti TE,1 2,Puskas FC,previous
+Sturm Graz,1 0,Linz ASK,previous
+Red Bull Salzburg,1 1,SK Rapid Wien,previous
+Halmstads BK,1 0,IFK Gothenburg,previous
+Västerås SK,0 1,IF Elfsborg,previous
+Ascoli,0 0,Venezia,previous
+Fortuna Dusseldorf,2 0,Eintracht Braunschweig,previous
+Hannover 96,1 1,Schalke,previous
+VfL Osnabruck,2 0,Greuther Furth,previous
 Tokyo Verdy,1 1,Kashiwa Reysol,previous
 Albirex Niigata,0 1,Cerezo Osaka,previous
 Kyoto Sanga,0 3,Jubilo Iwata,previous
@@ -174,65 +272,14 @@ Urawa Reds,3 0,Sagan Tosu,previous
 FC Tokyo,2 0,Kashima Antlers,previous
 Newcastle Jets,3 1,Sydney FC,previous
 Perth Glory,2 4,Adelaide United,previous
-GD Chaves,2 3,Portimonense,previous
-Moreirense,2 2,Estrela,previous
 FC Porto,1 2,Vitoria de Guimaraes,previous
 Union Saint-Gilloise,2 3,Cercle Brugge KSV,previous
 KAS Eupen,1 1,KV Kortrijk,previous
-Club Brugge,3 1,Anderlecht,previous
 Westerlo,0 3,AA Gent,previous
 Plymouth Parkway,4 1,Swindon Supermarine,previous
-Crystal Palace,2 4,Manchester City,previous
-Aston Villa,3 3,Brentford,previous
-Everton,1 0,Burnley,previous
-Fulham,0 1,Newcastle United,previous
-Luton Town,2 1,Bournemouth,previous
-Wolverhampton Wanderers,1 2,West Ham United,previous
-Brighton and Hove Albion,0 3,Arsenal,previous
-Blackpool,1 0,Cambridge United,previous
-Bristol Rovers,0 2,Bolton Wanderers,previous
-Burton Albion,0 4,Oxford United,previous
-Northampton Town,2 0,Carlisle United,previous
-Portsmouth,3 1,Shrewsbury Town,previous
-Reading,1 1,Lincoln City,previous
-AFC Wimbledon,1 0,Salford City,previous
-Barrow,0 2,Swindon Town,previous
-Bradford City,1 0,Gillingham,previous
-Forest Green Rovers,0 2,Milton Keynes Dons,previous
-Notts County,3 0,Harrogate Town,previous
-Sutton United,1 3,Stockport County,previous
-Tranmere Rovers,1 3,Walsall,previous
-Dundee,2 3,Motherwell,previous
-Hibernian,1 2,St. Johnstone,previous
 Kilmarnock,1 0,Ross County,previous
-Livingston,0 0,Aberdeen,previous
-Athletic Bilbao,1 1,Real Mallorca,previous
-Dunfermline Athletic,1 1,Partick Thistle,previous
-Inverness CT,2 1,Arbroath,previous
 Queen's Park,0 5,Dundee United,previous
-Annan Athletic,1 3,Hamilton Academical,previous
-Queen Of The South,1 2,Kelty Hearts,previous
-Stirling Albion,1 5,Alloa Athletic,previous
-Falkirk,5 1,Cove Rangers,previous
-Bonnyrigg Rose,2 2,Peterhead,previous
-Clyde,1 0,Stranraer,previous
-Elgin City,2 2,Spartans,previous
-Forfar Athletic,0 2,Dumbarton,previous
-Stenhousemuir,0 0,East Fife,previous
-Oldham Athletic,1 1,Rochdale,previous
-Boreham Wood,4 0,Wealdstone,previous
-Dorking Wanderers,0 0,Altrincham,previous
-Hartlepool United,2 0,Aldershot Town,previous
-Woking,3 2,Dagenham & Redbridge,previous
-York City,0 1,Eastleigh,previous
-Kidderminster Harriers,0 2,FC Halifax,previous
-1. FC Heidenheim 1846,3 2,Bayern Munich,previous
 1. FC Union Berlin,0 1,Bayer Leverkusen,previous
-Cologne,2 1,Bochum,previous
-Mainz,4 0,SV Darmstadt 98,previous
-SC Freiburg,1 4,RB Leipzig,previous
-Borussia Dortmund,0 1,Stuttgart,previous
-AC Milan,3 0,Lecce,previous
 Roma,1 0,Lazio,previous
 Empoli,3 2,Torino,previous
 RC Lens,1 1,Le Havre,previous
@@ -241,7 +288,6 @@ Gateshead,2 1,Macclesfield FC,previous
 Sparta Rotterdam,1 2,Heracles Almelo,previous
 PSV Eindhoven,5 1,AZ Alkmaar,previous
 PEC Zwolle,2 1,Excelsior,previous
-FC Twente,2 0,Fortuna Sittard,previous
 Coleraine,2 2,Cliftonville,previous
 Dungannon Swifts,3 2,Carrick Rangers,previous
 Glenavon,3 2,Newry City,previous
@@ -257,24 +303,17 @@ KuPS Kuopio,3 1,HJK Helsinki,previous
 Cardiff Metropolitan University,0 3,Connah's Quay Nomads,previous
 Colwyn Bay,1 0,Pontypridd United,previous
 Aberystwyth Town,0 3,Penybont,previous
-Granada,0 1,Valencia,previous
 Truro City,0 2,Hemel Hempstead,previous
 Gamba Osaka,0 0,Kyoto Sanga,previous
 Yokohama F. Marinos,0 0,Kawasaki Frontale,previous
 Consadole Sapporo,1 2,Nagoya Grampus Eight,previous
 Banbury,1 2,Hereford FC,previous
-Portsmouth,2 2,Derby County,previous
 1. FC Saarbrücken,0 2,Kaiserslautern,previous
 Warta Poznan,1 1,Zaglebie Lubin,previous
 OB Odense,0 1,Vejle BK,previous
 Central Coast Mariners,2 1,Melbourne City FC,previous
 Beaconsfield,1 0,Hanwell Town,previous
 Lyon,3 0,Valenciennes,previous
-Oxford United,4 0,Fleetwood Town,previous
-Barnet,3 1,Oxford City,previous
-Chesterfield,1 3,Kidderminster Harriers,previous
-Southend United,4 2,Boreham Wood,previous
-Villarreal,1 2,Atletico Madrid,previous
 Bologna,3 0,Salernitana,previous
 Sassuolo,1 1,Udinese,previous
 Dundalk,0 0,Drogheda,previous
@@ -296,9 +335,6 @@ Puszcza Niepolomic,1 1,Radomiak Radom,previous
 Stal Mielec,0 0,Lech Poznan,previous
 Widzew Lodz,3 1,Korona Kielce,previous
 Fredrikstad,0 2,Bodo/Glimt,previous
-Lillestrom,2 3,Kristiansund BK,previous
-Rosenborg,2 0,Sandefjord,previous
-Tromso,2 4,Brann,previous
 Viking,1 0,Sarpsborg,previous
 Needham Market,3 0,AFC Sudbury,previous
 Barwell,3 0,Long Eaton Utd,previous
@@ -356,8 +392,6 @@ U.C.D,1 1,Kerry,previous
 Glasgow City,1 2,Celtic Women,previous
 Celta Vigo,0 0,Rayo Vallecano,previous
 Girona,3 2,Real Betis,previous
-Alaves,0 1,Real Sociedad,previous
-Real Madrid,2 0,Athletic Bilbao,previous
 London City Lionesses,1 2,Sheffield United Women,previous
 Newcastle United Ladies,5 1,Liverpool Marshall Feds LFC,previous
 West Bromwich Albion WFC,1 0,Fylde Ladies,previous
@@ -446,9 +480,6 @@ Charlton Athletic Women,1 2,London City Lionesses,previous
 Huddersfield Town Ladies,1 1,Liverpool Marshall Feds LFC,previous
 Oxford United Women,3 1,London Bees,previous
 SGS Essen,0 0,Bayer 04 Leverkusen Ladies,previous
-Falkirk,4 1,Edinburgh City,previous
-Stirling Albion,1 0,Montrose,previous
-AFC Fylde,2 1,Oxford City,previous
 Argentina,3 0,El Salvador,previous
 Peru,2 0,Nicaragua,previous
 Zambia,2 2,Zimbabwe,previous
@@ -462,7 +493,6 @@ France,0 2,Germany,previous
 Tunisia,0 0,Croatia,previous
 Besiktas,5 1,Buducnost Podgorica,previous
 Levante Femenino,7 0,Real Betis Féminas,previous
-Orlando City SC,2 0,Austin FC,previous
 Macclesfield FC,3 0,Morpeth Town,previous
 Matlock Town,1 5,Whitby Town,previous
 Redditch United,0 3,Leamington,previous
@@ -479,9 +509,7 @@ Belgium U21,3 1,Malta U21,previous
 Scotland U21,4 1,Kazakhstan U21,previous
 Whitby Town,1 2,Guiseley,previous
 Hearts Women,0 2,Glasgow City,previous
-Borussia Dortmund,3 1,Eintracht Frankfurt,previous
 Sevilla,1 2,Celta Vigo,previous
-Las Palmas,0 1,Almeria,previous
 London City Lionesses,1 0,Sunderland Ladies,previous
 West Bromwich Albion WFC,1 0,Halifax FC Women,previous
 Real Betis Féminas,0 0,Real Sociedad Femenino,previous
@@ -493,20 +521,13 @@ Korona Kielce,2 2,Pogon Szczecin,previous
 LKS Lódz,1 1,Raków Czestochowa,previous
 Debreceni Vasutas Sport Club,5 1,Zalaegerszegi TE,previous
 MTK Budapest,2 1,Kisvárda,previous
-Moreirense,1 0,Arouca,previous
 Sporting Lisbon,6 1,Boavista,previous
 Sint-Truidense VV,2 1,Club Brugge,previous
-Antwerp,1 1,Union Saint-Gilloise,previous
-AA Gent,5 0,Charleroi,previous
 Cercle Brugge KSV,4 0,RWDM,previous
 Oud-Heverlee Leuven,1 0,Mechelen,previous
 Westerlo,1 1,Genk,previous
-Kilmarnock,5 2,St Mirren,previous
 Ross County,2 1,Hearts,previous
 1. FC Union Berlin,2 1,Werder Bremen,previous
-Real Mallorca,1 0,Granada,previous
-Osasuna,2 4,Real Madrid,previous
-Getafe,1 0,Girona,previous
 Slavia Prague,1 3,AC Milan,previous
 Atalanta,2 1,Sporting Lisbon,previous
 Bayer Leverkusen,3 2,Qarabag FK,previous
@@ -538,8 +559,6 @@ Paksi SE,1 1,Debreceni Vasutas Sport Club,previous
 Fehervar FC,0 2,Ferencvaros,previous
 Genk,1 0,Standard Liege,previous
 KAS Eupen,1 0,Sint-Truidense VV,previous
-Cadiz,2 0,Atletico Madrid,previous
-Granada,2 3,Real Sociedad,previous
 Barry Town,1 1,Colwyn Bay,previous
 Newtown AFC,2 0,Cardiff Metropolitan University,previous
 Atherton Collieries,1 2,Guiseley,previous
@@ -562,7 +581,6 @@ Panserraikos,2 1,Asteras Tripoli,previous
 Ujpesti Football Club,2 0,Fehervar FC,previous
 KV Kortrijk,3 2,RWDM,previous
 Casa Pia AC,0 0,Gil Vicente,previous
-Portimonense,0 0,Vizela,previous
 Sporting Lisbon,3 2,SC Farense,previous
 Le Puy Foot 43,1 3,Rennes,previous
 Rouen,1 1,Valenciennes,previous
@@ -587,8 +605,6 @@ Motherwell Women,0 3,Glasgow City,previous
 London City Lionesses,2 2,Durham Women,previous
 Liverpool Marshall Feds LFC,1 1,Nottingham Forest Ladies,previous
 FC Nurnberg,1 1,Kaiserslautern,previous
-St Pauli,1 0,Eintracht Braunschweig,previous
-Zaglebie Lubin,1 1,Cracovia,previous
 FC Bayern München Women,2 0,SGS Essen,previous
 Braga,2 1,SC Farense,previous
 Athletic Club Femenino,1 0,Real Betis Féminas,previous
@@ -602,9 +618,6 @@ Holstein Kiel,1 0,Schalke,previous
 VfL Osnabruck,0 0,Hansa Rostock,previous
 Slask Wroclaw,0 1,Pogon Szczecin,previous
 Diosgyor VTK,1 2,Ujpesti Football Club,previous
-Zalaegerszegi TE,1 1,Mezokovesd Zsory,previous
-Charleroi,1 3,Anderlecht,previous
-Rio Ave,1 0,Casa Pia AC,previous
 South Africa,0 0,DR Congo,previous
 FC Liefering,3 0,FC Pinzgau Saalfelden,previous
 Penybont,2 2,Barry Town,previous
@@ -638,7 +651,6 @@ Equatorial Guinea,0 1,Guinea,previous
 Egypt,1 1,DR Congo,previous
 Birmingham City Women,1 0,London City Lionesses,previous
 Real Betis Féminas,0 6,FC Barcelona Women,previous
-Eintracht Braunschweig,1 0,Magdeburg,previous
 Moreirense,1 0,FC Famalicao,previous
 Angola,3 0,Namibia,previous
 Nigeria,2 0,Cameroon,previous
@@ -821,7 +833,6 @@ Belarus U21,0 1,Croatia U21,previous
 Wales U21,1 2,Denmark U21,previous
 Djibouti,0 1,Guinea-Bissau,previous
 Bosnia and Herzegovina,1 2,Slovakia,previous
-Glasgow City,0 2,Rangers Women,previous
 Lewes Women,2 1,London City Lionesses,previous
 Sakaryaspor,1 2,Besiktas,previous
 Real Betis Féminas,1 0,Levante Las Planas Femenino,previous
@@ -834,7 +845,5 @@ Doncaster Rovers Belles,0 2,Rugby Borough Women,previous
 Gateshead Ladies,1 2,Alnwick Town Juniors LFC,previous
 West Bromwich Albion WFC,8 2,Lye Town Ladies,previous
 Dulwich Hamlet Ladies,2 0,London Bees,previous
-Brommapojkarna,2 1,Hacken,previous
-IK Sirius,2 0,Norrkoping,previous
 Varbergs BoIS,1 2,IFK Gothenburg,previous
 Lingfield,1 0,Tunbridge Wells,previous
