@@ -3672,39 +3672,39 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 37,5,Atalanta,36,20,6,10,67,39,28,66,Seria A
 37,6,Roma,37,18,9,10,64,44,20,63,Seria A
 37,7,Lazio,37,18,6,13,48,38,10,60,Seria A
-37,8,Fiorentina,36,15,9,12,55,42,13,54,Seria A
 37,9,Torino,37,13,14,10,36,33,3,53,Seria A
 37,10,Napoli,37,13,13,11,55,48,7,52,Seria A
 37,11,Genoa,37,11,13,13,43,45,-2,46,Seria A
 37,12,Monza,37,11,12,14,39,49,-10,45,Seria A
 37,13,Verona,37,9,10,18,36,49,-13,37,Seria A
 37,14,Lecce,37,8,13,16,32,54,-22,37,Seria A
-37,15,Cagliari,37,8,12,17,40,65,-25,36,Seria A
 37,16,Frosinone,37,8,11,18,44,68,-24,35,Seria A
 37,17,Udinese,37,5,19,13,36,53,-17,34,Seria A
 37,18,Empoli,37,8,9,20,27,53,-26,33,Seria A
 37,19,Sassuolo,37,7,8,22,42,74,-32,29,Seria A
 37,20,Salernitana,37,2,10,25,29,78,-49,16,Seria A
-37,1,Inter Milan,37,29,6,2,87,20,67,93,Seria A
-37,2,AC Milan,37,22,8,7,73,46,27,74,Seria A
-37,3,Bologna,37,18,14,5,54,30,24,68,Seria A
-37,4,Juventus,37,18,14,5,52,31,21,68,Seria A
-37,5,Atalanta,36,20,6,10,67,39,28,66,Seria A
-37,6,Roma,37,18,9,10,64,44,20,63,Seria A
-37,7,Lazio,37,18,6,13,48,38,10,60,Seria A
 37,8,Fiorentina,37,16,9,12,58,44,14,57,Seria A
-37,9,Torino,37,13,14,10,36,33,3,53,Seria A
-37,10,Napoli,37,13,13,11,55,48,7,52,Seria A
-37,11,Genoa,37,11,13,13,43,45,-2,46,Seria A
-37,12,Monza,37,11,12,14,39,49,-10,45,Seria A
-37,13,Verona,37,9,10,18,36,49,-13,37,Seria A
-37,14,Lecce,37,8,13,16,32,54,-22,37,Seria A
 37,15,Cagliari,38,8,12,18,42,68,-26,36,Seria A
-37,16,Frosinone,37,8,11,18,44,68,-24,35,Seria A
-37,17,Udinese,37,5,19,13,36,53,-17,34,Seria A
-37,18,Empoli,37,8,9,20,27,53,-26,33,Seria A
-37,19,Sassuolo,37,7,8,22,42,74,-32,29,Seria A
-37,20,Salernitana,37,2,10,25,29,78,-49,16,Seria A
+38,1,Inter Milan,38,29,7,2,89,22,67,94,Seria A
+38,2,AC Milan,38,22,9,7,76,49,27,75,Seria A
+38,3,Juventus,38,19,14,5,54,31,23,71,Seria A
+38,4,Atalanta,37,21,6,10,70,39,31,69,Seria A
+38,5,Bologna,38,18,14,6,54,32,22,68,Seria A
+38,6,Roma,38,18,9,11,65,46,19,63,Seria A
+38,7,Lazio,38,18,7,13,49,39,10,61,Seria A
+38,8,Fiorentina,37,16,9,12,58,44,14,57,Seria A
+38,9,Torino,38,13,14,11,36,36,0,53,Seria A
+38,10,Napoli,38,13,14,11,55,48,7,53,Seria A
+38,11,Genoa,38,12,13,13,45,45,0,49,Seria A
+38,12,Monza,38,11,12,15,39,51,-12,45,Seria A
+38,13,Verona,38,9,11,18,38,51,-13,38,Seria A
+38,14,Lecce,38,8,14,16,32,54,-22,38,Seria A
+38,15,Udinese,38,6,19,13,37,53,-16,37,Seria A
+38,16,Cagliari,38,8,12,18,42,68,-26,36,Seria A
+38,17,Empoli,38,9,9,20,29,54,-25,36,Seria A
+38,18,Frosinone,38,8,11,19,44,69,-25,35,Seria A
+38,19,Sassuolo,38,7,9,22,43,75,-32,30,Seria A
+38,20,Salernitana,38,2,11,25,32,81,-49,17,Seria A
 1,1,Atletico Madrid,1,1,0,0,3,1,2,3,la liga
 1,2,Real Madrid,1,1,0,0,2,0,2,3,la liga
 1,3,Osasuna,1,1,0,0,2,0,2,3,la liga
@@ -4445,23 +4445,23 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 37,18,Cadiz,37,6,15,16,25,49,-24,33,la liga
 37,19,Granada,37,4,9,24,38,72,-34,21,la liga
 37,20,Almeria,37,2,12,23,37,74,-37,18,la liga
-37,1,Real Madrid,37,29,7,1,87,26,61,94,la liga
-37,2,Barcelona,37,25,7,5,77,43,34,82,la liga
-37,3,Girona,37,24,6,7,78,46,32,78,la liga
-37,4,Atletico Madrid,37,23,4,10,68,43,25,73,la liga
-37,5,Athletic Bilbao,37,18,11,8,60,37,23,65,la liga
-37,6,Real Sociedad,37,16,12,9,51,37,14,60,la liga
-37,7,Real Betis,37,14,14,9,48,45,3,56,la liga
-37,8,Villarreal,37,14,10,13,64,64,0,52,la liga
-37,9,Valencia,37,13,9,15,38,43,-5,48,la liga
-37,10,Alaves,37,12,9,16,35,45,-10,45,la liga
-37,11,Osasuna,37,12,8,17,44,55,-11,44,la liga
-37,12,Getafe,37,10,13,14,41,52,-11,43,la liga
-37,13,Sevilla,37,10,11,16,47,52,-5,41,la liga
-37,14,Celta Vigo,37,10,10,17,44,55,-11,40,la liga
-37,15,Las Palmas,37,10,9,18,32,46,-14,39,la liga
-37,16,Rayo Vallecano,37,8,14,15,29,47,-18,38,la liga
-37,17,Real Mallorca,37,7,16,14,31,43,-12,37,la liga
-37,18,Cadiz,37,6,15,16,25,49,-24,33,la liga
-37,19,Granada,37,4,9,24,38,72,-34,21,la liga
-37,20,Almeria,37,2,12,23,37,74,-37,18,la liga
+38,1,Real Madrid,38,29,8,1,87,26,61,95,la liga
+38,2,Barcelona,38,26,7,5,79,44,35,85,la liga
+38,3,Girona,38,25,6,7,85,46,39,81,la liga
+38,4,Atletico Madrid,38,24,4,10,70,43,27,76,la liga
+38,5,Athletic Bilbao,38,19,11,8,61,37,24,68,la liga
+38,6,Real Sociedad,38,16,12,10,51,39,12,60,la liga
+38,7,Real Betis,38,14,15,9,48,45,3,57,la liga
+38,8,Villarreal,38,14,11,13,65,65,0,53,la liga
+38,9,Valencia,38,13,10,15,40,45,-5,49,la liga
+38,10,Alaves,38,12,10,16,36,46,-10,46,la liga
+38,11,Osasuna,38,12,9,17,45,56,-11,45,la liga
+38,12,Getafe,38,10,13,15,42,54,-12,43,la liga
+38,13,Celta Vigo,38,10,11,17,46,57,-11,41,la liga
+38,14,Sevilla,38,10,11,17,48,54,-6,41,la liga
+38,15,Real Mallorca,38,8,16,14,33,44,-11,40,la liga
+38,16,Las Palmas,38,10,10,18,33,47,-14,40,la liga
+38,17,Rayo Vallecano,38,8,14,16,29,48,-19,38,la liga
+38,18,Cadiz,38,6,15,17,26,55,-29,33,la liga
+38,19,Almeria,38,3,12,23,43,75,-32,21,la liga
+38,20,Granada,38,4,9,25,38,79,-41,21,la liga
