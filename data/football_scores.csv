@@ -1,4 +1,48 @@
 home_team,scores,away_team,type
+United States of America,1 1,Brazil,current
+Ecuador,3 1,Bolivia,current
+Bohemians,1 2,Derry City,current
+Dundalk,1 0,Sligo Rovers,current
+Galway United FC,3 0,Drogheda,current
+St Patricks Athletic,2 1,Shamrock Rovers,current
+Waterford United,0 1,Shelbourne,current
+Bray Wanderers,1 0,Athlone,current
+Cork City,4 1,Cobh Ramblers,current
+Finn Harps,1 1,U.C.D,current
+Kerry,2 1,Longford Town,current
+Wexford Youths,0 1,Treaty United,current
+Dominican Republic,4 0,British Virgin Islands,current
+Puerto Rico,8 0,Anguilla,current
+Chile,3 0,Paraguay,current
+AC Oulu,2 2,FC Lahti,current
+FC Inter Turku,0 2,Ilves,current
+IFK Mariehamn,0 0,VPS,current
+KuPS Kuopio,0 1,FC Haka,current
+Gnistan,0 4,HJK Helsinki,current
+St Lucia,2 2,Aruba,current
+St. Kitts and Nevis,1 0,Bahamas,current
+Guyana,3 1,Belize,current
+Japan,5 0,Syria,current
+Korea Republic,1 0,China,current
+Indonesia,2 0,Philippines,current
+Thailand,3 1,Singapore,current
+Korea DPR,4 1,Myanmar,current
+Malaysia,3 1,Chinese Taipei,current
+Tajikistan,3 0,Pakistan,current
+Turkmenistan,0 0,Hong Kong,current
+Oman,1 1,Kyrgyzstan,current
+Iran,0 0,Uzbekistan,current
+U.A.E.,1 1,Bahrain,current
+Iraq,3 1,Vietnam,current
+Saudi Arabia,1 2,Jordan,current
+Yemen,2 2,Nepal,current
+Azerbaijan,3 2,Kazakhstan,current
+Belarus,0 4,Israel,current
+Malta,0 2,Greece,current
+Moldova,0 4,Ukraine,current
+San Marino,1 4,Cyprus,current
+Northern Ireland,2 0,Andorra,current
+Portugal,3 0,Republic of Ireland,current
 Bermuda,1 6,Honduras,current
 Montserrat,1 3,Panama,current
 Argentina,1 0,Ecuador,current
@@ -40,74 +84,23 @@ Belgium,3 0,Luxembourg,current
 Spain,5 1,Northern Ireland,current
 United States of America,1 5,Colombia,current
 KuPS Kuopio,4 1,AC Oulu,current
-Honduras,3 1,Cuba,current
-Panama,2 0,Guyana,current
-Costa Rica,4 0,St. Kitts and Nevis,current
-El Salvador,0 0,Puerto Rico,current
-Czech Republic,7 1,Malta,current
-Armenia,2 1,Kazakhstan,current
-Albania,3 1,Azerbaijan,current
-Belarus,0 4,Football Union of Russia,current
-Romania,0 0,Liechtenstein,current
-England,0 1,Iceland,current
-Germany,2 1,Greece,current
-Poland,3 1,Ukraine,current
-Scotland,2 2,Finland,current
-Montenegro U21,1 0,Albania U21,current
-Derry City,2 0,Galway United FC,current
-Drogheda,0 0,St Patricks Athletic,current
-Shelbourne,1 0,Dundalk,current
-Waterford United,4 1,Sligo Rovers,current
-FC Haka,2 0,IFK Mariehamn,current
-FC Lahti,0 2,FC Inter Turku,current
-VPS,1 1,Ilves,current
-HJK Helsinki,4 1,SJK,current
-Cobh Ramblers,2 0,Finn Harps,current
-Cork City,2 0,Longford Town,current
-Treaty United,2 0,Bray Wanderers,current
-U.C.D,2 1,Kerry,current
-Curacao,4 1,Barbados,current
-Trinidad and Tobago,2 2,Grenada,current
-Guatemala,6 0,Dominica,current
-Nicaragua,4 1,Montserrat,current
-Jamaica,1 0,Dominican Republic,current
-Haiti,2 1,St Lucia,current
-Indonesia,0 2,Iraq,current
-Chinese Taipei,0 3,Oman,current
-China,1 1,Thailand,current
-Hong Kong,2 4,Iran,current
-Singapore,0 7,Korea Republic,current
-Vietnam,3 2,Philippines,current
-Myanmar,0 5,Japan,current
-Korea DPR,1 0,Syria,current
-Uzbekistan,3 1,Turkmenistan,current
-Kyrgyzstan,1 1,Malaysia,current
-Pakistan,0 3,Saudi Arabia,current
-Nepal,0 4,U.A.E.,current
-Bahrain,0 0,Yemen,current
-Jordan,3 0,Tajikistan,current
-Mexico,0 4,Uruguay,current
-Gibraltar,0 0,Wales,current
-Netherlands,4 0,Canada,current
-Guinea-Bissau,0 0,Ethiopia,current
-Egypt,2 1,Burkina,current
-Antigua and Barbuda,1 1,Bermuda,current
-Suriname,4 1,St. Vincent and the Grenadines,current
-Slovakia,4 0,San Marino,current
-Denmark,2 1,Sweden,current
-Norway,3 0,Kosovo,current
-Belgium,2 0,Montenegro,current
-France,3 0,Luxembourg,current
-Spain,5 0,Andorra,current
-Sierra Leone,2 1,Djibouti,current
+Honduras,3 1,Cuba,previous
+Armenia,2 1,Kazakhstan,previous
+Albania,3 1,Azerbaijan,previous
+Belarus,0 4,Football Union of Russia,previous
+Romania,0 0,Liechtenstein,previous
+England,0 1,Iceland,previous
+Germany,2 1,Greece,previous
+Scotland,2 2,Finland,previous
+Montenegro U21,1 0,Albania U21,previous
+HJK Helsinki,4 1,SJK,previous
+Mexico,0 4,Uruguay,previous
+Gibraltar,0 0,Wales,previous
+Norway,3 0,Kosovo,previous
 Switzerland,4 0,Estonia,previous
-Republic of Ireland,2 1,Hungary,previous
-Wexford Youths,2 2,Longford Town,previous
-Finn Harps,1 1,Athlone,previous
 Indonesia,0 0,Tanzania,previous
 Atalanta,2 3,Fiorentina,previous
 Metz,2 2,St Etienne,previous
-Gnistan,2 1,FC Lahti,previous
 D.C. United,2 2,Toronto FC,previous
 Inter Miami CF,3 3,St. Louis City SC,previous
 New York Red Bulls,1 0,Orlando City SC,previous
@@ -135,7 +128,6 @@ Kawasaki Frontale,2 1,Nagoya Grampus Eight,previous
 Kashiwa Reysol,0 2,Avispa Fukuoka,previous
 Genk,0 1,AA Gent,previous
 Borussia Dortmund,0 2,Real Madrid,previous
-Mexico,1 0,Bolivia,previous
 Guatemala,1 6,Chile Women,previous
 HamKam,1 2,Brann,previous
 Brommapojkarna,2 2,Malmo FF,previous
@@ -148,8 +140,6 @@ Shonan Bellmare,1 2,Gamba Osaka,previous
 Urawa Reds,1 1,Vissel Kobe,previous
 Kyoto Sanga,1 1,Cerezo Osaka,previous
 New York City FC,5 1,San Jose Earthquakes,previous
-Drogheda,0 2,Shamrock Rovers,previous
-Waterford United,2 1,Bohemians,previous
 Roma,5 2,AC Milan,previous
 Sagan Tosu,0 1,FC Tokyo,previous
 FC Cincinnati,0 2,Nashville SC,previous
@@ -593,7 +583,6 @@ Latvia,1 1,Liechtenstein,previous
 Denmark,2 0,Faroe Islands,previous
 Ivory Coast,2 1,Uruguay,previous
 Senegal,1 0,Benin,previous
-France,3 2,Chile,previous
 New Zealand,0 0,Tunisia,previous
 Algeria,3 3,South Africa,previous
 Mali,2 0,Nigeria,previous
