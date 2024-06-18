@@ -1,4 +1,51 @@
 home_team,scores,away_team,type
+Romania,3 0,Ukraine,current
+Belgium,0 1,Slovakia,current
+Austria,0 1,France,current
+Ecuador,2 1,Honduras,current
+Panama,0 1,Paraguay,current
+Poland,1 2,Netherlands,current
+Slovenia,1 1,Denmark,current
+Serbia,0 1,England,current
+Shijiazhuang Ever Bright,0 1,Qingdao Jonoon,current
+Shanghai Shenhua,1 1,Chengdu Rongcheng,current
+Qingdao West Coast,0 1,Wuhan Three Towns,current
+Vissel Kobe,1 0,Kawasaki Frontale,current
+Avispa Fukuoka,2 0,Sagan Tosu,current
+FC Tokyo,1 1,Jubilo Iwata,current
+Gamba Osaka,2 1,Kashiwa Reysol,current
+Kashima Antlers,1 1,Albirex Niigata,current
+Nagoya Grampus Eight,1 1,Shonan Bellmare,current
+Atlanta United FC,2 2,Houston Dynamo,current
+CF Montréal,0 0,Real Salt Lake,current
+Charlotte FC,1 0,D.C. United,current
+New England Revolution,3 2,Vancouver Whitecaps,current
+New York Red Bulls,0 0,Nashville SC,current
+Orlando City SC,1 3,Los Angeles Football Club,current
+Philadelphia Union,1 2,Inter Miami CF,current
+Toronto FC,1 4,Chicago Fire,current
+FC Dallas,2 0,St. Louis City SC,current
+Colorado Rapids,2 0,Austin FC,current
+Los Angeles Galaxy,4 2,Sporting Kansas City,current
+San Jose Earthquakes,2 4,FC Cincinnati,current
+Seattle Sounders FC,2 0,Minnesota United FC,current
+Argentina,4 1,Guatemala,current
+El Salvador,0 1,Peru,current
+Colombia,3 0,Bolivia,current
+Hungary,1 3,Switzerland,current
+Spain,3 0,Croatia,current
+Italy,2 1,Albania,current
+Real Betis Féminas,1 0,Granadilla Tenerife Femenino,current
+Hangzhou Greentown,3 1,Changchun Yatai,current
+Henan Jianye,2 1,Beijing Guoan,current
+Sanfrecce Hiroshima,4 1,Tokyo Verdy,current
+Cerezo Osaka,2 1,Urawa Reds,current
+Kyoto Sanga,2 0,Consadole Sapporo,current
+New York City FC,2 3,Columbus Crew,current
+Germany,5 1,Scotland,current
+Meizhou Hakka,0 0,Shandong Luneng,current
+Nantong Zhiyun,0 1,Shenzhen Xinpengcheng,current
+Tianjin Teda,0 3,Shanghai SIPG,current
 United States of America,1 1,Brazil,current
 Ecuador,3 1,Bolivia,current
 Bohemians,1 2,Derry City,current
@@ -19,71 +66,62 @@ FC Inter Turku,0 2,Ilves,current
 IFK Mariehamn,0 0,VPS,current
 KuPS Kuopio,0 1,FC Haka,current
 Gnistan,0 4,HJK Helsinki,current
-St Lucia,2 2,Aruba,current
-St. Kitts and Nevis,1 0,Bahamas,current
-Guyana,3 1,Belize,current
-Japan,5 0,Syria,current
-Korea Republic,1 0,China,current
-Indonesia,2 0,Philippines,current
-Thailand,3 1,Singapore,current
-Korea DPR,4 1,Myanmar,current
-Malaysia,3 1,Chinese Taipei,current
-Tajikistan,3 0,Pakistan,current
-Turkmenistan,0 0,Hong Kong,current
-Oman,1 1,Kyrgyzstan,current
-Iran,0 0,Uzbekistan,current
-U.A.E.,1 1,Bahrain,current
-Iraq,3 1,Vietnam,current
-Saudi Arabia,1 2,Jordan,current
-Yemen,2 2,Nepal,current
-Azerbaijan,3 2,Kazakhstan,current
-Belarus,0 4,Israel,current
-Malta,0 2,Greece,current
-Moldova,0 4,Ukraine,current
-San Marino,1 4,Cyprus,current
-Northern Ireland,2 0,Andorra,current
-Portugal,3 0,Republic of Ireland,current
-Bermuda,1 6,Honduras,current
-Montserrat,1 3,Panama,current
-Argentina,1 0,Ecuador,current
-Czech Republic,2 1,North Macedonia,current
-Netherlands,4 0,Iceland,current
-Poland,2 1,Turkey,current
-Guinea-Bissau,1 1,Egypt,current
-Burkina,2 2,Sierra Leone,current
-Aruba,0 2,Curacao,current
-Belize,0 4,Nicaragua,current
-Cayman Islands,1 0,Antigua and Barbuda,current
-Dominica,2 3,Jamaica,current
-St. Vincent and the Grenadines,1 3,El Salvador,current
-Barbados,1 3,Haiti,current
-Grenada,0 3,Costa Rica,current
-Mexico,2 3,Brazil,current
-Italy,1 0,Bosnia and Herzegovina,current
-Montenegro,1 3,Georgia,current
-Slovakia,4 0,Wales,current
-France,0 0,Canada,current
-FC Barcelona Women,5 1,Real Betis Féminas,current
-New England Revolution,1 0,New York Red Bulls,current
-Minnesota United FC,1 1,FC Dallas,current
-Sporting Kansas City,2 1,Seattle Sounders FC,current
-St. Louis City SC,0 0,Portland Timbers,current
-Djibouti,1 1,Ethiopia,current
-British Virgin Islands,0 3,Guatemala,current
-Anguilla,0 4,Suriname,current
-Bahamas,1 7,Trinidad and Tobago,current
-Peru,0 0,Paraguay,current
-Slovenia,1 1,Bulgaria,current
-Hungary,3 0,Israel,current
-Moldova,3 2,Cyprus,current
-Sweden,0 3,Serbia,current
-Switzerland,1 1,Austria,current
-Portugal,1 2,Croatia,current
-Denmark,3 1,Norway,current
-Belgium,3 0,Luxembourg,current
-Spain,5 1,Northern Ireland,current
-United States of America,1 5,Colombia,current
-KuPS Kuopio,4 1,AC Oulu,current
+St Lucia,2 2,Aruba,previous
+St. Kitts and Nevis,1 0,Bahamas,previous
+Guyana,3 1,Belize,previous
+Japan,5 0,Syria,previous
+Korea Republic,1 0,China,previous
+Indonesia,2 0,Philippines,previous
+Thailand,3 1,Singapore,previous
+Korea DPR,4 1,Myanmar,previous
+Malaysia,3 1,Chinese Taipei,previous
+Tajikistan,3 0,Pakistan,previous
+Turkmenistan,0 0,Hong Kong,previous
+Oman,1 1,Kyrgyzstan,previous
+Iran,0 0,Uzbekistan,previous
+U.A.E.,1 1,Bahrain,previous
+Iraq,3 1,Vietnam,previous
+Saudi Arabia,1 2,Jordan,previous
+Yemen,2 2,Nepal,previous
+Azerbaijan,3 2,Kazakhstan,previous
+Belarus,0 4,Israel,previous
+Malta,0 2,Greece,previous
+Moldova,0 4,Ukraine,previous
+San Marino,1 4,Cyprus,previous
+Northern Ireland,2 0,Andorra,previous
+Portugal,3 0,Republic of Ireland,previous
+Bermuda,1 6,Honduras,previous
+Montserrat,1 3,Panama,previous
+Czech Republic,2 1,North Macedonia,previous
+Netherlands,4 0,Iceland,previous
+Poland,2 1,Turkey,previous
+Guinea-Bissau,1 1,Egypt,previous
+Burkina,2 2,Sierra Leone,previous
+Aruba,0 2,Curacao,previous
+Belize,0 4,Nicaragua,previous
+Cayman Islands,1 0,Antigua and Barbuda,previous
+Dominica,2 3,Jamaica,previous
+St. Vincent and the Grenadines,1 3,El Salvador,previous
+Barbados,1 3,Haiti,previous
+Grenada,0 3,Costa Rica,previous
+Mexico,2 3,Brazil,previous
+Italy,1 0,Bosnia and Herzegovina,previous
+Montenegro,1 3,Georgia,previous
+Slovakia,4 0,Wales,previous
+France,0 0,Canada,previous
+FC Barcelona Women,5 1,Real Betis Féminas,previous
+St. Louis City SC,0 0,Portland Timbers,previous
+Djibouti,1 1,Ethiopia,previous
+Anguilla,0 4,Suriname,previous
+Bahamas,1 7,Trinidad and Tobago,previous
+Slovenia,1 1,Bulgaria,previous
+Hungary,3 0,Israel,previous
+Moldova,3 2,Cyprus,previous
+Sweden,0 3,Serbia,previous
+Portugal,1 2,Croatia,previous
+Denmark,3 1,Norway,previous
+Belgium,3 0,Luxembourg,previous
+Spain,5 1,Northern Ireland,previous
 Honduras,3 1,Cuba,previous
 Armenia,2 1,Kazakhstan,previous
 Albania,3 1,Azerbaijan,previous
@@ -101,17 +139,7 @@ Switzerland,4 0,Estonia,previous
 Indonesia,0 0,Tanzania,previous
 Atalanta,2 3,Fiorentina,previous
 Metz,2 2,St Etienne,previous
-D.C. United,2 2,Toronto FC,previous
-Inter Miami CF,3 3,St. Louis City SC,previous
-New York Red Bulls,1 0,Orlando City SC,previous
-Philadelphia Union,2 2,CF Montréal,previous
-Chicago Fire,2 1,Los Angeles Galaxy,previous
-Nashville SC,1 2,New England Revolution,previous
-Real Salt Lake,5 1,Austin FC,previous
-Los Angeles Football Club,1 0,FC Dallas,previous
 Portland Timbers,2 2,Houston Dynamo,previous
-Vancouver Whitecaps,2 1,Colorado Rapids,previous
-Atlanta United FC,2 3,Charlotte FC,previous
 Venezia,1 0,Cremonese,previous
 Molde,2 2,Viking,previous
 Haugesund,0 1,Bodo/Glimt,previous
@@ -123,9 +151,6 @@ Djurgardens IF,0 3,Hammarby IF,previous
 Kalmar FF,0 4,Västerås SK,previous
 Hacken,4 1,AIK,previous
 IFK Värnamo,1 2,Mjällby AIF,previous
-Tokyo Verdy,5 3,Consadole Sapporo,previous
-Kawasaki Frontale,2 1,Nagoya Grampus Eight,previous
-Kashiwa Reysol,0 2,Avispa Fukuoka,previous
 Genk,0 1,AA Gent,previous
 Borussia Dortmund,0 2,Real Madrid,previous
 Guatemala,1 6,Chile Women,previous
@@ -134,16 +159,8 @@ Brommapojkarna,2 2,Malmo FF,previous
 IFK Gothenburg,1 0,IF Elfsborg,previous
 Halmstads BK,4 0,GAIS,previous
 IK Sirius,5 1,Norrkoping,previous
-Sanfrecce Hiroshima,2 0,Jubilo Iwata,previous
 Kashima Antlers,3 2,Yokohama F. Marinos,previous
-Shonan Bellmare,1 2,Gamba Osaka,previous
-Urawa Reds,1 1,Vissel Kobe,previous
-Kyoto Sanga,1 1,Cerezo Osaka,previous
-New York City FC,5 1,San Jose Earthquakes,previous
 Roma,5 2,AC Milan,previous
-Sagan Tosu,0 1,FC Tokyo,previous
-FC Cincinnati,0 2,Nashville SC,previous
-Seattle Sounders FC,1 1,Real Salt Lake,previous
 Olympiakos FC,1 0,Fiorentina,previous
 Bodo/Glimt,1 1,Sandefjord,previous
 SV Wehen Wiesbaden,1 2,Jahn Regensburg,previous
@@ -166,13 +183,6 @@ Real Betis Féminas,0 0,Madrid CF Femenino,previous
 Brondby,2 3,AGF Aarhus,previous
 FC Copenhagen,1 1,FC Nordsjaelland,previous
 FC Midtjylland,3 3,Silkeborg,previous
-Shenzhen Xinpengcheng,0 1,Shanghai Shenhua,previous
-Beijing Guoan,5 2,Nantong Zhiyun,previous
-Qingdao Jonoon,3 1,Tianjin Teda,previous
-Changchun Yatai,0 0,Henan Jianye,previous
-Chengdu Rongcheng,7 0,Qingdao West Coast,previous
-Shanghai SIPG,4 1,Shijiazhuang Ever Bright,previous
-Orlando City SC,0 2,Columbus Crew,previous
 Antwerp,3 1,Anderlecht,previous
 Club Brugge,0 0,Cercle Brugge KSV,previous
 Union Saint-Gilloise,2 0,Genk,previous
@@ -199,10 +209,7 @@ Raków Czestochowa,1 2,Slask Wroclaw,previous
 Hvidovre IF,0 0,Lyngby BK,previous
 Randers FC,1 0,Vejle BK,previous
 Viborg FF,2 1,OB Odense,previous
-Shandong Luneng,3 0,Hangzhou Greentown,previous
-Wuhan Three Towns,0 1,Meizhou Hakka,previous
 Central Coast Mariners,3 1,Melbourne Victory,previous
-Albirex Niigata,1 2,Avispa Fukuoka,previous
 Lyon,1 2,Paris Saint-Germain,previous
 AA Gent,2 0,Sint-Truidense VV,previous
 Mechelen,3 2,Standard Liege,previous
