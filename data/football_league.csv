@@ -650,21 +650,21 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 0,1,AZ Alkmaar,0,0,0,0,0,0,0,0,Eredivisie
 0,2,Ajax,0,0,0,0,0,0,0,0,Eredivisie
 0,3,Almere City FC,0,0,0,0,0,0,0,0,Eredivisie
-0,4,FC Twente,0,0,0,0,0,0,0,0,Eredivisie
-0,5,FC Utrecht,0,0,0,0,0,0,0,0,Eredivisie
-0,6,Feyenoord,0,0,0,0,0,0,0,0,Eredivisie
-0,7,Fortuna Sittard,0,0,0,0,0,0,0,0,Eredivisie
-0,8,Go Ahead Eagles,0,0,0,0,0,0,0,0,Eredivisie
-0,9,Groningen,0,0,0,0,0,0,0,0,Eredivisie
-0,10,Heerenveen,0,0,0,0,0,0,0,0,Eredivisie
-0,11,Heracles Almelo,0,0,0,0,0,0,0,0,Eredivisie
 0,12,NAC Breda,0,0,0,0,0,0,0,0,Eredivisie
-0,13,NEC Nijmegen,0,0,0,0,0,0,0,0,Eredivisie
-0,14,PEC Zwolle,0,0,0,0,0,0,0,0,Eredivisie
-0,15,PSV Eindhoven,0,0,0,0,0,0,0,0,Eredivisie
-0,16,RKC Waalwijk,0,0,0,0,0,0,0,0,Eredivisie
-0,17,Sparta Rotterdam,0,0,0,0,0,0,0,0,Eredivisie
-0,18,Willem II,0,0,0,0,0,0,0,0,Eredivisie
+0,4,Groningen,0,0,0,0,0,0,0,0,Eredivisie
+0,5,FC Twente,0,0,0,0,0,0,0,0,Eredivisie
+0,6,FC Utrecht,0,0,0,0,0,0,0,0,Eredivisie
+0,7,Feyenoord,0,0,0,0,0,0,0,0,Eredivisie
+0,8,Fortuna Sittard,0,0,0,0,0,0,0,0,Eredivisie
+0,9,Go Ahead Eagles,0,0,0,0,0,0,0,0,Eredivisie
+0,10,Heracles Almelo,0,0,0,0,0,0,0,0,Eredivisie
+0,11,NEC Nijmegen,0,0,0,0,0,0,0,0,Eredivisie
+0,13,PEC Zwolle,0,0,0,0,0,0,0,0,Eredivisie
+0,14,PSV Eindhoven,0,0,0,0,0,0,0,0,Eredivisie
+0,15,RKC Waalwijk,0,0,0,0,0,0,0,0,Eredivisie
+0,16,Sparta Rotterdam,0,0,0,0,0,0,0,0,Eredivisie
+0,17,Willem II,0,0,0,0,0,0,0,0,Eredivisie
+0,18,Heerenveen,0,0,0,0,0,0,0,0,Eredivisie
 7,1,PSV Eindhoven,7,7,0,0,23,2,21,21,Eredivisie
 7,2,AZ Alkmaar,7,6,1,0,20,3,17,19,Eredivisie
 7,3,FC Twente,7,6,0,1,14,4,10,18,Eredivisie
@@ -1821,15 +1821,15 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 0,2,Auxerre,0,0,0,0,0,0,0,0,Ligue 1
 0,3,Brest,0,0,0,0,0,0,0,0,Ligue 1
 0,4,Le Havre,0,0,0,0,0,0,0,0,Ligue 1
-0,5,Lille,0,0,0,0,0,0,0,0,Ligue 1
-0,6,Lyon,0,0,0,0,0,0,0,0,Ligue 1
-0,7,Marseille,0,0,0,0,0,0,0,0,Ligue 1
-0,8,Monaco,0,0,0,0,0,0,0,0,Ligue 1
-0,9,Montpellier,0,0,0,0,0,0,0,0,Ligue 1
-0,10,Nantes,0,0,0,0,0,0,0,0,Ligue 1
-0,11,Nice,0,0,0,0,0,0,0,0,Ligue 1
-0,12,Paris Saint-Germain,0,0,0,0,0,0,0,0,Ligue 1
-0,13,RC Lens,0,0,0,0,0,0,0,0,Ligue 1
+0,5,RC Lens,0,0,0,0,0,0,0,0,Ligue 1
+0,6,Lille,0,0,0,0,0,0,0,0,Ligue 1
+0,7,Lyon,0,0,0,0,0,0,0,0,Ligue 1
+0,8,Marseille,0,0,0,0,0,0,0,0,Ligue 1
+0,9,Monaco,0,0,0,0,0,0,0,0,Ligue 1
+0,10,Montpellier,0,0,0,0,0,0,0,0,Ligue 1
+0,11,Nantes,0,0,0,0,0,0,0,0,Ligue 1
+0,12,Nice,0,0,0,0,0,0,0,0,Ligue 1
+0,13,Paris Saint-Germain,0,0,0,0,0,0,0,0,Ligue 1
 0,14,Reims,0,0,0,0,0,0,0,0,Ligue 1
 0,15,Rennes,0,0,0,0,0,0,0,0,Ligue 1
 0,16,St Etienne,0,0,0,0,0,0,0,0,Ligue 1
@@ -3831,6 +3831,26 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 0,18,Udinese,0,0,0,0,0,0,0,0,Seria A
 0,19,Venezia,0,0,0,0,0,0,0,0,Seria A
 0,20,Verona,0,0,0,0,0,0,0,0,Seria A
+0,1,Alaves,0,0,0,0,0,0,0,0,la liga
+0,2,Athletic Bilbao,0,0,0,0,0,0,0,0,la liga
+0,3,Atletico Madrid,0,0,0,0,0,0,0,0,la liga
+0,4,Barcelona,0,0,0,0,0,0,0,0,la liga
+0,5,Celta Vigo,0,0,0,0,0,0,0,0,la liga
+0,6,Getafe,0,0,0,0,0,0,0,0,la liga
+0,7,Girona,0,0,0,0,0,0,0,0,la liga
+0,8,Las Palmas,0,0,0,0,0,0,0,0,la liga
+0,9,Leganes,0,0,0,0,0,0,0,0,la liga
+0,10,Real Mallorca,0,0,0,0,0,0,0,0,la liga
+0,11,Osasuna,0,0,0,0,0,0,0,0,la liga
+0,12,Rayo Vallecano,0,0,0,0,0,0,0,0,la liga
+0,13,Real Betis,0,0,0,0,0,0,0,0,la liga
+0,14,Real Madrid,0,0,0,0,0,0,0,0,la liga
+0,15,Real Sociedad,0,0,0,0,0,0,0,0,la liga
+0,16,Real Valladolid,0,0,0,0,0,0,0,0,la liga
+0,17,Sevilla,0,0,0,0,0,0,0,0,la liga
+0,18,TBC,0,0,0,0,0,0,0,0,la liga
+0,19,Valencia,0,0,0,0,0,0,0,0,la liga
+0,20,Villarreal,0,0,0,0,0,0,0,0,la liga
 1,1,Atletico Madrid,1,1,0,0,3,1,2,3,la liga
 1,2,Real Madrid,1,1,0,0,2,0,2,3,la liga
 1,3,Osasuna,1,1,0,0,2,0,2,3,la liga
@@ -4596,18 +4616,18 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 0,3,Atletico Madrid,0,0,0,0,0,0,0,0,la liga
 0,4,Barcelona,0,0,0,0,0,0,0,0,la liga
 0,5,Celta Vigo,0,0,0,0,0,0,0,0,la liga
-0,6,Getafe,0,0,0,0,0,0,0,0,la liga
-0,7,Girona,0,0,0,0,0,0,0,0,la liga
-0,8,Las Palmas,0,0,0,0,0,0,0,0,la liga
-0,9,Leganes,0,0,0,0,0,0,0,0,la liga
-0,10,Real Mallorca,0,0,0,0,0,0,0,0,la liga
-0,11,Osasuna,0,0,0,0,0,0,0,0,la liga
-0,12,Rayo Vallecano,0,0,0,0,0,0,0,0,la liga
-0,13,Real Betis,0,0,0,0,0,0,0,0,la liga
-0,14,Real Madrid,0,0,0,0,0,0,0,0,la liga
-0,15,Real Sociedad,0,0,0,0,0,0,0,0,la liga
-0,16,Real Valladolid,0,0,0,0,0,0,0,0,la liga
-0,17,Sevilla,0,0,0,0,0,0,0,0,la liga
-0,18,TBC,0,0,0,0,0,0,0,0,la liga
+0,6,Espanyol,0,0,0,0,0,0,0,0,la liga
+0,7,Getafe,0,0,0,0,0,0,0,0,la liga
+0,8,Girona,0,0,0,0,0,0,0,0,la liga
+0,9,Las Palmas,0,0,0,0,0,0,0,0,la liga
+0,10,Leganes,0,0,0,0,0,0,0,0,la liga
+0,11,Real Mallorca,0,0,0,0,0,0,0,0,la liga
+0,12,Osasuna,0,0,0,0,0,0,0,0,la liga
+0,13,Rayo Vallecano,0,0,0,0,0,0,0,0,la liga
+0,14,Real Betis,0,0,0,0,0,0,0,0,la liga
+0,15,Real Madrid,0,0,0,0,0,0,0,0,la liga
+0,16,Real Sociedad,0,0,0,0,0,0,0,0,la liga
+0,17,Real Valladolid,0,0,0,0,0,0,0,0,la liga
+0,18,Sevilla,0,0,0,0,0,0,0,0,la liga
 0,19,Valencia,0,0,0,0,0,0,0,0,la liga
 0,20,Villarreal,0,0,0,0,0,0,0,0,la liga
