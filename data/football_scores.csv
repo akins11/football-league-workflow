@@ -1,4 +1,36 @@
 home_team,scores,away_team,type
+Sandefjord,1 2,HamKam,current
+Venezuela,1 0,Mexico,current
+Panama,2 1,United States of America,current
+Slovakia,1 1,Romania,current
+Ukraine,0 0,Belgium,current
+Czech Republic,1 2,Turkey,current
+Georgia,2 0,Portugal,current
+Shanghai Shenhua,3 0,Meizhou Hakka,current
+Changchun Yatai,2 2,Shandong Luneng,current
+Qingdao Jonoon,1 5,Chengdu Rongcheng,current
+Beijing Guoan,4 0,Shijiazhuang Ever Bright,current
+Avispa Fukuoka,2 1,Yokohama F. Marinos,current
+Cerezo Osaka,1 0,Sagan Tosu,current
+FC Tokyo,1 0,Consadole Sapporo,current
+Jubilo Iwata,3 0,Tokyo Verdy,current
+Kashima Antlers,0 0,Gamba Osaka,current
+Kawasaki Frontale,1 1,Shonan Bellmare,current
+Kyoto Sanga,2 2,Kashiwa Reysol,current
+Nagoya Grampus Eight,0 1,Urawa Reds,current
+Sanfrecce Hiroshima,1 1,Albirex Niigata,current
+Chile,0 1,Argentina,current
+Ecuador,3 1,Jamaica,current
+France,1 1,Poland,current
+Netherlands,2 3,Austria,current
+Denmark,0 0,Serbia,current
+England,0 0,Slovenia,current
+Henan Jianye,1 0,Qingdao West Coast,current
+Nantong Zhiyun,1 1,Tianjin Teda,current
+Shenzhen Xinpengcheng,3 2,Hangzhou Greentown,current
+Wuhan Three Towns,0 2,Shanghai SIPG,current
+Brazil,0 0,Costa Rica,current
+Peru,0 1,Canada,current
 Albania,0 1,Spain,current
 Croatia,1 1,Italy,current
 Uruguay,3 1,Panama,current
@@ -35,50 +67,16 @@ Shonan Bellmare,0 1,FC Tokyo,current
 Urawa Reds,2 2,Kashima Antlers,current
 Peru,0 0,Chile,current
 Ecuador,1 2,Venezuela,current
-Slovakia,1 2,Ukraine,current
-Poland,1 3,Austria,current
-Netherlands,0 0,France,current
-Argentina,2 0,Canada,current
-Slovenia,1 1,Serbia,current
-Denmark,1 1,England,current
-Spain,1 0,Italy,current
-CF Montréal,2 2,New York Red Bulls,current
-Charlotte FC,2 2,Orlando City SC,current
-D.C. United,0 1,Atlanta United FC,current
-Inter Miami CF,2 1,Columbus Crew,current
-Toronto FC,1 2,Nashville SC,current
-FC Cincinnati,4 3,Philadelphia Union,current
-Austin FC,1 1,Los Angeles Football Club,current
-FC Dallas,5 3,Minnesota United FC,current
-Houston Dynamo,2 2,Seattle Sounders FC,current
-Sporting Kansas City,3 4,Real Salt Lake,current
-St. Louis City SC,0 3,Colorado Rapids,current
-Los Angeles Galaxy,2 0,New York City FC,current
-San Jose Earthquakes,1 2,Portland Timbers,current
-Croatia,2 2,Albania,current
-Germany,2 0,Hungary,current
-Scotland,1 1,Switzerland,current
-FC Haka,0 0,FC Inter Turku,current
-FC Lahti,3 3,Gnistan,current
-HJK Helsinki,3 1,KuPS Kuopio,current
-Ilves,2 2,SJK,current
-VPS,1 1,AC Oulu,current
-Yokohama F. Marinos,3 2,Sanfrecce Hiroshima,current
-Meizhou Hakka,1 2,Shanghai SIPG,previous
+Inter Miami CF,2 1,Columbus Crew,previous
+FC Haka,0 0,FC Inter Turku,previous
+FC Lahti,3 3,Gnistan,previous
+HJK Helsinki,3 1,KuPS Kuopio,previous
+Ilves,2 2,SJK,previous
+VPS,1 1,AC Oulu,previous
 Ecuador,2 1,Honduras,previous
-Shijiazhuang Ever Bright,0 1,Qingdao Jonoon,previous
-Shanghai Shenhua,1 1,Chengdu Rongcheng,previous
-Qingdao West Coast,0 1,Wuhan Three Towns,previous
-Avispa Fukuoka,2 0,Sagan Tosu,previous
 Argentina,4 1,Guatemala,previous
 El Salvador,0 1,Peru,previous
 Real Betis Féminas,1 0,Granadilla Tenerife Femenino,previous
-Hangzhou Greentown,3 1,Changchun Yatai,previous
-Henan Jianye,2 1,Beijing Guoan,previous
-Meizhou Hakka,0 0,Shandong Luneng,previous
-Nantong Zhiyun,0 1,Shenzhen Xinpengcheng,previous
-Tianjin Teda,0 3,Shanghai SIPG,previous
-United States of America,1 1,Brazil,previous
 Bohemians,1 2,Derry City,previous
 Dundalk,1 0,Sligo Rovers,previous
 Galway United FC,3 0,Drogheda,previous
@@ -129,7 +127,6 @@ Dominica,2 3,Jamaica,previous
 St. Vincent and the Grenadines,1 3,El Salvador,previous
 Barbados,1 3,Haiti,previous
 Grenada,0 3,Costa Rica,previous
-Mexico,2 3,Brazil,previous
 Italy,1 0,Bosnia and Herzegovina,previous
 Montenegro,1 3,Georgia,previous
 Slovakia,4 0,Wales,previous
