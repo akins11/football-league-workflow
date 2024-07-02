@@ -1,4 +1,68 @@
 home_team,scores,away_team,type
+France,1 0,Belgium,current
+Portugal,0 0,Slovenia,current
+Jamaica,0 3,Venezuela,current
+Mexico,0 0,Ecuador,current
+England,2 1,Slovakia,current
+Spain,4 1,Georgia,current
+IFK Mariehamn,1 2,HJK Helsinki,current
+Viking,4 2,Rosenborg,current
+Qingdao West Coast,0 1,Shanghai Shenhua,current
+Changchun Yatai,5 0,Qingdao Jonoon,current
+Chengdu Rongcheng,4 0,Shijiazhuang Ever Bright,current
+Meizhou Hakka,0 3,Henan Jianye,current
+Beijing Guoan,2 0,Shandong Luneng,current
+Cerezo Osaka,2 1,Nagoya Grampus Eight,current
+FC Tokyo,0 1,Avispa Fukuoka,current
+Urawa Reds,3 0,Jubilo Iwata,current
+Sagan Tosu,1 4,Kashiwa Reysol,current
+Shonan Bellmare,0 1,Kyoto Sanga,current
+Vissel Kobe,3 1,Kashima Antlers,current
+Atlanta United FC,2 1,Toronto FC,current
+CF Montréal,4 2,Philadelphia Union,current
+New England Revolution,1 5,Columbus Crew,current
+New York Red Bulls,2 2,D.C. United,current
+FC Dallas,0 1,FC Cincinnati,current
+Houston Dynamo,1 0,Charlotte FC,current
+Nashville SC,1 2,Inter Miami CF,current
+Sporting Kansas City,2 0,Austin FC,current
+Los Angeles Football Club,3 0,Colorado Rapids,current
+Portland Timbers,3 2,Minnesota United FC,current
+San Jose Earthquakes,0 3,Los Angeles Galaxy,current
+Seattle Sounders FC,2 1,Chicago Fire,current
+Vancouver Whitecaps,4 3,St. Louis City SC,current
+Argentina,2 0,Peru,current
+Canada,0 0,Chile,current
+Switzerland,2 0,Italy,current
+Germany,2 0,Denmark,current
+SJK,2 1,FC Haka,current
+FC Lahti,2 2,Ilves,current
+Wuhan Three Towns,1 2,Nantong Zhiyun,current
+Shanghai SIPG,3 1,Hangzhou Greentown,current
+Tianjin Teda,3 0,Shenzhen Xinpengcheng,current
+Consadole Sapporo,0 1,Albirex Niigata,current
+Kawasaki Frontale,1 1,Sanfrecce Hiroshima,current
+Yokohama F. Marinos,1 2,Tokyo Verdy,current
+New York City FC,4 2,Orlando City SC,current
+Paraguay,1 4,Brazil,current
+Derry City,5 1,Drogheda,current
+Dundalk,0 2,Waterford United,current
+Shelbourne,2 0,Galway United FC,current
+Sligo Rovers,2 0,Shamrock Rovers,current
+St Patricks Athletic,0 0,Bohemians,current
+FC Inter Turku,3 1,VPS,current
+AC Oulu,1 0,KuPS Kuopio,current
+Brann,0 0,Stromsgodset,current
+Odd Grenland,1 1,Kristiansund BK,current
+Sarpsborg,1 2,Bodo/Glimt,current
+Tromso,0 2,Molde,current
+Uruguay,5 0,Bolivia,current
+Colombia,3 0,Costa Rica,current
+Athlone,1 0,Treaty United,current
+Cobh Ramblers,2 2,U.C.D,current
+Cork City,1 0,Bray Wanderers,current
+Kerry,1 1,Wexford Youths,current
+Longford Town,1 1,Finn Harps,current
 Sandefjord,1 2,HamKam,current
 Venezuela,1 0,Mexico,current
 Panama,2 1,United States of America,current
@@ -21,75 +85,20 @@ Nagoya Grampus Eight,0 1,Urawa Reds,current
 Sanfrecce Hiroshima,1 1,Albirex Niigata,current
 Chile,0 1,Argentina,current
 Ecuador,3 1,Jamaica,current
-France,1 1,Poland,current
-Netherlands,2 3,Austria,current
-Denmark,0 0,Serbia,current
-England,0 0,Slovenia,current
-Henan Jianye,1 0,Qingdao West Coast,current
-Nantong Zhiyun,1 1,Tianjin Teda,current
-Shenzhen Xinpengcheng,3 2,Hangzhou Greentown,current
-Wuhan Three Towns,0 2,Shanghai SIPG,current
-Brazil,0 0,Costa Rica,current
-Peru,0 1,Canada,current
-Albania,0 1,Spain,current
-Croatia,1 1,Italy,current
-Uruguay,3 1,Panama,current
-Colombia,2 1,Paraguay,current
-Scotland,0 1,Hungary,current
-Switzerland,1 1,Germany,current
-Consadole Sapporo,0 1,Yokohama F. Marinos,current
-Columbus Crew,4 0,Sporting Kansas City,current
-D.C. United,1 4,Houston Dynamo,current
-FC Cincinnati,1 2,New England Revolution,current
-New York Red Bulls,3 0,Toronto FC,current
-Orlando City SC,4 2,Chicago Fire,current
-Philadelphia Union,0 2,Charlotte FC,current
-Minnesota United FC,0 1,Austin FC,current
-Nashville SC,1 0,New York City FC,current
-St. Louis City SC,1 1,Atlanta United FC,current
-Colorado Rapids,4 1,CF Montréal,current
-Real Salt Lake,0 1,Los Angeles Galaxy,current
-Los Angeles Football Club,6 2,San Jose Earthquakes,current
-Portland Timbers,2 0,Vancouver Whitecaps,current
-Seattle Sounders FC,3 2,FC Dallas,current
-Mexico,1 0,Jamaica,current
-United States of America,2 0,Bolivia,current
-Georgia,1 1,Czech Republic,current
-Turkey,0 3,Portugal,current
-Belgium,2 0,Romania,current
-Albirex Niigata,2 2,Kawasaki Frontale,current
-Tokyo Verdy,1 0,Nagoya Grampus Eight,current
-Gamba Osaka,2 1,Vissel Kobe,current
-Jubilo Iwata,1 1,Cerezo Osaka,current
-Kashiwa Reysol,0 1,Sanfrecce Hiroshima,current
-Sagan Tosu,3 0,Kyoto Sanga,current
-Shonan Bellmare,0 1,FC Tokyo,current
-Urawa Reds,2 2,Kashima Antlers,current
-Peru,0 0,Chile,current
-Ecuador,1 2,Venezuela,current
-Inter Miami CF,2 1,Columbus Crew,previous
-FC Haka,0 0,FC Inter Turku,previous
+France,1 1,Poland,previous
+Netherlands,2 3,Austria,previous
+Denmark,0 0,Serbia,previous
+Albania,0 1,Spain,previous
+Croatia,1 1,Italy,previous
+Scotland,0 1,Hungary,previous
+Real Salt Lake,0 1,Los Angeles Galaxy,previous
 FC Lahti,3 3,Gnistan,previous
-HJK Helsinki,3 1,KuPS Kuopio,previous
-Ilves,2 2,SJK,previous
-VPS,1 1,AC Oulu,previous
 Ecuador,2 1,Honduras,previous
 Argentina,4 1,Guatemala,previous
 El Salvador,0 1,Peru,previous
 Real Betis Féminas,1 0,Granadilla Tenerife Femenino,previous
-Bohemians,1 2,Derry City,previous
-Dundalk,1 0,Sligo Rovers,previous
-Galway United FC,3 0,Drogheda,previous
-St Patricks Athletic,2 1,Shamrock Rovers,previous
-Waterford United,0 1,Shelbourne,previous
-Bray Wanderers,1 0,Athlone,previous
-Cork City,4 1,Cobh Ramblers,previous
-Finn Harps,1 1,U.C.D,previous
-Kerry,2 1,Longford Town,previous
-Wexford Youths,0 1,Treaty United,previous
 Dominican Republic,4 0,British Virgin Islands,previous
 Puerto Rico,8 0,Anguilla,previous
-IFK Mariehamn,0 0,VPS,previous
 St Lucia,2 2,Aruba,previous
 St. Kitts and Nevis,1 0,Bahamas,previous
 Guyana,3 1,Belize,previous
@@ -157,10 +166,7 @@ Indonesia,0 0,Tanzania,previous
 Atalanta,2 3,Fiorentina,previous
 Metz,2 2,St Etienne,previous
 Venezia,1 0,Cremonese,previous
-Molde,2 2,Viking,previous
 Haugesund,0 1,Bodo/Glimt,previous
-Kristiansund BK,3 1,Sarpsborg,previous
-Stromsgodset,1 1,Odd Grenland,previous
 Tromso,1 2,Lillestrom,previous
 Rosenborg,1 1,Fredrikstad,previous
 Djurgardens IF,0 3,Hammarby IF,previous
@@ -170,14 +176,12 @@ IFK Värnamo,1 2,Mjällby AIF,previous
 Genk,0 1,AA Gent,previous
 Borussia Dortmund,0 2,Real Madrid,previous
 Guatemala,1 6,Chile Women,previous
-HamKam,1 2,Brann,previous
 Brommapojkarna,2 2,Malmo FF,previous
 IFK Gothenburg,1 0,IF Elfsborg,previous
 Halmstads BK,4 0,GAIS,previous
 IK Sirius,5 1,Norrkoping,previous
 Roma,5 2,AC Milan,previous
 Olympiakos FC,1 0,Fiorentina,previous
-Bodo/Glimt,1 1,Sandefjord,previous
 SV Wehen Wiesbaden,1 2,Jahn Regensburg,previous
 Hartberg,0 1,Austria Wien,previous
 Fortuna Dusseldorf,0 3,Bochum,previous
