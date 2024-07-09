@@ -1,4 +1,71 @@
 home_team,scores,away_team,type
+AC Oulu,1 2,SJK,current
+FC Inter Turku,3 0,FC Lahti,current
+Kristiansund BK,3 1,Fredrikstad,current
+Stromsgodset,1 1,Sandefjord,current
+Norrkoping,1 3,Djurgardens IF,current
+Västerås SK,1 2,Hacken,current
+San Jose Earthquakes,1 0,Chicago Fire,current
+Sporting Kansas City,3 2,FC Dallas,current
+Colorado Rapids,4 1,St. Louis City SC,current
+Los Angeles Galaxy,2 1,Minnesota United FC,current
+Portland Timbers,4 1,Nashville SC,current
+IFK Mariehamn,0 3,FC Haka,current
+KuPS Kuopio,3 1,Gnistan,current
+Bodo/Glimt,5 1,Brann,current
+HamKam,0 0,Tromso,current
+Haugesund,1 2,Sarpsborg,current
+Molde,3 0,Lillestrom,current
+Rosenborg,2 1,Odd Grenland,current
+AIK,1 2,Kalmar FF,current
+IFK Värnamo,2 0,IFK Gothenburg,current
+GAIS,0 0,Hammarby IF,current
+Malmo FF,5 1,Halmstads BK,current
+Nantong Zhiyun,0 1,Chengdu Rongcheng,current
+Beijing Guoan,1 2,Wuhan Three Towns,current
+Qingdao Jonoon,3 1,Qingdao West Coast,current
+Hangzhou Greentown,4 0,Meizhou Hakka,current
+Avispa Fukuoka,1 2,Kyoto Sanga,current
+CF Montréal,1 1,Vancouver Whitecaps,current
+Columbus Crew,4 0,Toronto FC,current
+FC Cincinnati,6 1,Inter Miami CF,current
+Orlando City SC,5 0,D.C. United,current
+Philadelphia Union,0 0,New York Red Bulls,current
+Austin FC,2 1,New York City FC,current
+Real Salt Lake,5 2,Atlanta United FC,current
+Seattle Sounders FC,2 0,New England Revolution,current
+Uruguay,0 0,Brazil,current
+England,1 1,Switzerland,current
+Netherlands,2 1,Turkey,current
+Besiktas,0 0,Umraniyespor,current
+FC Dordrecht,0 4,Feyenoord,current
+PSV Eindhoven,0 3,Anderlecht,current
+Kuchl,1 8,Red Bull Salzburg,current
+FC Admira Wacker Modling,1 1,Fenerbahce,current
+Ilves,3 0,HJK Helsinki,current
+IF Elfsborg,3 0,Brommapojkarna,current
+Mjällby AIF,3 2,IK Sirius,current
+Tianjin Teda,2 2,Changchun Yatai,current
+Shanghai Shenhua,6 0,Shandong Luneng,current
+Shijiazhuang Ever Bright,1 1,Shenzhen Xinpengcheng,current
+Kashima Antlers,2 0,Consadole Sapporo,current
+Albirex Niigata,3 4,Sagan Tosu,current
+Jubilo Iwata,2 2,Kawasaki Frontale,current
+Tokyo Verdy,1 1,Cerezo Osaka,current
+Gamba Osaka,4 0,Yokohama F. Marinos,current
+Urawa Reds,2 3,Shonan Bellmare,current
+Kashiwa Reysol,3 2,FC Tokyo,current
+Venezuela,1 1,Canada,current
+Colombia,5 0,Panama,current
+Spain,2 1,Germany,current
+Portugal,0 0,France,current
+Ajax,0 1,PEC Zwolle,current
+Henan Jianye,0 1,Shanghai SIPG,current
+Sanfrecce Hiroshima,1 3,Vissel Kobe,current
+FC Dallas,3 2,Portland Timbers,current
+Colorado Rapids,2 1,Sporting Kansas City,current
+Los Angeles Galaxy,1 2,Los Angeles Football Club,current
+Argentina,1 1,Ecuador,current
 Drogheda,1 1,Shelbourne,current
 Galway United FC,1 1,Bohemians,current
 Sligo Rovers,2 1,Derry City,current
@@ -23,72 +90,30 @@ Sandefjord,1 2,Tromso,current
 Yokohama F. Marinos,0 1,Sagan Tosu,current
 Brazil,1 1,Colombia,current
 Costa Rica,2 1,Paraguay,current
-Romania,0 3,Netherlands,current
-Austria,1 2,Turkey,current
-Bolivia,1 3,Panama,current
-United States of America,0 1,Uruguay,current
-France,1 0,Belgium,current
-Portugal,0 0,Slovenia,current
-Jamaica,0 3,Venezuela,current
-Mexico,0 0,Ecuador,current
-England,2 1,Slovakia,current
-Spain,4 1,Georgia,current
-IFK Mariehamn,1 2,HJK Helsinki,current
-Viking,4 2,Rosenborg,current
-Qingdao West Coast,0 1,Shanghai Shenhua,current
-Changchun Yatai,5 0,Qingdao Jonoon,current
-Chengdu Rongcheng,4 0,Shijiazhuang Ever Bright,current
-Meizhou Hakka,0 3,Henan Jianye,current
-Beijing Guoan,2 0,Shandong Luneng,current
-Cerezo Osaka,2 1,Nagoya Grampus Eight,current
-FC Tokyo,0 1,Avispa Fukuoka,current
-Urawa Reds,3 0,Jubilo Iwata,current
-Sagan Tosu,1 4,Kashiwa Reysol,current
-Shonan Bellmare,0 1,Kyoto Sanga,current
-Vissel Kobe,3 1,Kashima Antlers,current
-Atlanta United FC,2 1,Toronto FC,current
-CF Montréal,4 2,Philadelphia Union,current
-New England Revolution,1 5,Columbus Crew,current
-New York Red Bulls,2 2,D.C. United,current
-FC Dallas,0 1,FC Cincinnati,current
-Houston Dynamo,1 0,Charlotte FC,current
-Nashville SC,1 2,Inter Miami CF,current
-Sporting Kansas City,2 0,Austin FC,current
-Los Angeles Football Club,3 0,Colorado Rapids,current
-Portland Timbers,3 2,Minnesota United FC,current
-San Jose Earthquakes,0 3,Los Angeles Galaxy,current
-Seattle Sounders FC,2 1,Chicago Fire,current
-Vancouver Whitecaps,4 3,St. Louis City SC,current
-Argentina,2 0,Peru,current
-Canada,0 0,Chile,current
-Switzerland,2 0,Italy,current
-Germany,2 0,Denmark,current
-SJK,2 1,FC Haka,current
-FC Lahti,2 2,Ilves,current
-Wuhan Three Towns,1 2,Nantong Zhiyun,current
-Shanghai SIPG,3 1,Hangzhou Greentown,current
-Tianjin Teda,3 0,Shenzhen Xinpengcheng,current
-Consadole Sapporo,0 1,Albirex Niigata,current
-Kawasaki Frontale,1 1,Sanfrecce Hiroshima,current
-Yokohama F. Marinos,1 2,Tokyo Verdy,current
-New York City FC,4 2,Orlando City SC,current
-Paraguay,1 4,Brazil,current
+Romania,0 3,Netherlands,previous
+Austria,1 2,Turkey,previous
+Bolivia,1 3,Panama,previous
+United States of America,0 1,Uruguay,previous
+France,1 0,Belgium,previous
+Portugal,0 0,Slovenia,previous
+Jamaica,0 3,Venezuela,previous
+Mexico,0 0,Ecuador,previous
+England,2 1,Slovakia,previous
+Spain,4 1,Georgia,previous
+Viking,4 2,Rosenborg,previous
+Cerezo Osaka,2 1,Nagoya Grampus Eight,previous
+Argentina,2 0,Peru,previous
+Canada,0 0,Chile,previous
+Switzerland,2 0,Italy,previous
+Germany,2 0,Denmark,previous
 FC Inter Turku,3 1,VPS,previous
-AC Oulu,1 0,KuPS Kuopio,previous
-Brann,0 0,Stromsgodset,previous
-Odd Grenland,1 1,Kristiansund BK,previous
-Sarpsborg,1 2,Bodo/Glimt,previous
-Tromso,0 2,Molde,previous
-Sandefjord,1 2,HamKam,previous
 Ukraine,0 0,Belgium,previous
 Czech Republic,1 2,Turkey,previous
-Kashima Antlers,0 0,Gamba Osaka,previous
 France,1 1,Poland,previous
 Denmark,0 0,Serbia,previous
 Albania,0 1,Spain,previous
 Croatia,1 1,Italy,previous
 Scotland,0 1,Hungary,previous
-FC Lahti,3 3,Gnistan,previous
 Ecuador,2 1,Honduras,previous
 Argentina,4 1,Guatemala,previous
 El Salvador,0 1,Peru,previous
@@ -162,20 +187,9 @@ Indonesia,0 0,Tanzania,previous
 Atalanta,2 3,Fiorentina,previous
 Metz,2 2,St Etienne,previous
 Venezia,1 0,Cremonese,previous
-Haugesund,0 1,Bodo/Glimt,previous
-Tromso,1 2,Lillestrom,previous
-Rosenborg,1 1,Fredrikstad,previous
-Djurgardens IF,0 3,Hammarby IF,previous
-Kalmar FF,0 4,Västerås SK,previous
-Hacken,4 1,AIK,previous
-IFK Värnamo,1 2,Mjällby AIF,previous
 Genk,0 1,AA Gent,previous
 Borussia Dortmund,0 2,Real Madrid,previous
 Guatemala,1 6,Chile Women,previous
-Brommapojkarna,2 2,Malmo FF,previous
-IFK Gothenburg,1 0,IF Elfsborg,previous
-Halmstads BK,4 0,GAIS,previous
-IK Sirius,5 1,Norrkoping,previous
 Roma,5 2,AC Milan,previous
 Olympiakos FC,1 0,Fiorentina,previous
 SV Wehen Wiesbaden,1 2,Jahn Regensburg,previous
