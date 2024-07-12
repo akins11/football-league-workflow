@@ -1,10 +1,64 @@
 home_team,scores,away_team,type
+FA Siauliai,0 2,FC Levadia Tallinn,current
+FC Aktobe,0 1,FK Sarajevo,current
+FK Liepaja,1 1,Vikingur,current
+Malisheva,1 0,Buducnost Podgorica,current
+Bravo,0 1,Connah's Quay Nomads,current
+Magpies,2 0,Derry City,current
+Noah,2 0,Shkendija Tetovo,current
+Atletic Escaldes,0 1,F91 Dudelange,current
+Tallinna Kalev,1 2,Banants Yerevan,current
+Floriana FC,3 1,Tre Penne,current
+Torpedo Kutaisi,1 1,KF Tirana,current
+Torpedo Zhodino,2 4,FC Milsami,current
+UNA Strassen,0 0,KuPS Kuopio,current
+VPS,1 2,VMFD Zalgiris,current
+Caernarfon Town,2 0,Crusaders,current
+Bala Town FC,1 2,Paide Linnameeskond,current
+Partizani Tirane,1 1,Marsaxlokk,current
+Tikvesh,3 2,Ungmennafelagid Breidablik,current
+Fiorita,0 1,Isloch Minsk,current
+Mornar,2 1,Dynamo Tbilisi,current
+Shelbourne,2 1,St. Joseph's,current
+UMF Stjarnan,2 0,Linfield,current
+Valur Reykjavik,2 2,KS Vllaznia Shkoder,current
+IF Elfsborg,3 0,Pafos,current
+MFK Ruzomberok,5 2,Tobol Kostanay,current
+Paksi SE,0 4,Corvinul Hunedoara,current
+Sheriff Tiraspol (Mol),0 1,FC Zire,current
+Botev Plovdiv,2 1,Maribor,current
+Wisla Krakow,2 0,Llapi,current
+Linz ASK,3 2,Galatasaray,current
+Uruguay,0 1,Colombia,current
+Netherlands,1 2,England,current
+Ordabasy,0 0,Petrocub-Hincesti,current
+FC Flora Tallinn,0 5,NK Celje,current
+Rigas Futbola Skola,3 0,Larne,current
+SK Slovan Bratislava,4 2,FC Struga,current
+KI Klaksvík,2 0,FC 03 Differdange,current
+Ludogorets,3 1,Dinamo Batumi,current
+Dinamo Minsk,0 0,Pyunik Yerevan,current
+Borac,1 0,Egnatia,current
+Velez Mostar,1 1,Inter Club D'Escaldes,current
+FK Auda,2 0,B36 Torshavn,current
+Trabzonspor,2 1,Szeged-Csanád,current
+Fenerbahce,0 1,Hajduk Split,current
+Argentina,2 0,Canada,current
+Spain,2 1,France,current
+Panevezys,3 0,HJK Helsinki,current
+Hamrun Spartans,0 1,Lincoln Red Imps,current
+The New Saints FC,3 0,Decic,current
+UE Santa Coloma,1 2,Ballkani,current
+Vikingur Reykjavík,0 0,Shamrock Rovers,current
+Virtus,1 7,FC Steaua Bucuresti,current
+Ajax,4 0,Sint-Truidense VV,current
+River Plate,1 1,Millonarios,current
 AC Oulu,1 2,SJK,current
 FC Inter Turku,3 0,FC Lahti,current
-Kristiansund BK,3 1,Fredrikstad,current
-Stromsgodset,1 1,Sandefjord,current
 Norrkoping,1 3,Djurgardens IF,current
 Västerås SK,1 2,Hacken,current
+Kristiansund BK,3 1,Fredrikstad,current
+Stromsgodset,1 1,Sandefjord,current
 San Jose Earthquakes,1 0,Chicago Fire,current
 Sporting Kansas City,3 2,FC Dallas,current
 Colorado Rapids,4 1,St. Louis City SC,current
@@ -57,39 +111,26 @@ Urawa Reds,2 3,Shonan Bellmare,current
 Kashiwa Reysol,3 2,FC Tokyo,current
 Venezuela,1 1,Canada,current
 Colombia,5 0,Panama,current
-Spain,2 1,Germany,current
-Portugal,0 0,France,current
-Ajax,0 1,PEC Zwolle,current
-Henan Jianye,0 1,Shanghai SIPG,current
-Sanfrecce Hiroshima,1 3,Vissel Kobe,current
-FC Dallas,3 2,Portland Timbers,current
-Colorado Rapids,2 1,Sporting Kansas City,current
-Los Angeles Galaxy,1 2,Los Angeles Football Club,current
-Argentina,1 1,Ecuador,current
-Drogheda,1 1,Shelbourne,current
-Galway United FC,1 1,Bohemians,current
-Sligo Rovers,2 1,Derry City,current
-Waterford United,1 0,St Patricks Athletic,current
-Shamrock Rovers,1 0,Dundalk,current
-Charlotte FC,1 2,Inter Miami CF,current
-D.C. United,2 3,FC Cincinnati,current
-New York City FC,2 0,CF Montréal,current
-Toronto FC,1 2,Orlando City SC,current
-New England Revolution,2 1,Atlanta United FC,current
-Chicago Fire,4 3,Philadelphia Union,current
-Minnesota United FC,1 3,Vancouver Whitecaps,current
-St. Louis City SC,2 0,San Jose Earthquakes,current
-Real Salt Lake,3 2,Houston Dynamo,current
-Bray Wanderers,0 1,Longford Town,current
-Finn Harps,1 0,Kerry,current
-Treaty United,0 1,Cobh Ramblers,current
-U.C.D,1 2,Athlone,current
-Wexford Youths,1 3,Cork City,current
-Columbus Crew,2 0,Nashville SC,current
-Sandefjord,1 2,Tromso,current
-Yokohama F. Marinos,0 1,Sagan Tosu,current
-Brazil,1 1,Colombia,current
-Costa Rica,2 1,Paraguay,current
+Spain,2 1,Germany,previous
+Portugal,0 0,France,previous
+Ajax,0 1,PEC Zwolle,previous
+Henan Jianye,0 1,Shanghai SIPG,previous
+Sanfrecce Hiroshima,1 3,Vissel Kobe,previous
+Los Angeles Galaxy,1 2,Los Angeles Football Club,previous
+Argentina,1 1,Ecuador,previous
+Drogheda,1 1,Shelbourne,previous
+Galway United FC,1 1,Bohemians,previous
+Sligo Rovers,2 1,Derry City,previous
+Waterford United,1 0,St Patricks Athletic,previous
+Shamrock Rovers,1 0,Dundalk,previous
+Charlotte FC,1 2,Inter Miami CF,previous
+Real Salt Lake,3 2,Houston Dynamo,previous
+Bray Wanderers,0 1,Longford Town,previous
+Finn Harps,1 0,Kerry,previous
+Treaty United,0 1,Cobh Ramblers,previous
+U.C.D,1 2,Athlone,previous
+Wexford Youths,1 3,Cork City,previous
+Costa Rica,2 1,Paraguay,previous
 Romania,0 3,Netherlands,previous
 Austria,1 2,Turkey,previous
 Bolivia,1 3,Panama,previous
@@ -106,7 +147,6 @@ Argentina,2 0,Peru,previous
 Canada,0 0,Chile,previous
 Switzerland,2 0,Italy,previous
 Germany,2 0,Denmark,previous
-FC Inter Turku,3 1,VPS,previous
 Ukraine,0 0,Belgium,previous
 Czech Republic,1 2,Turkey,previous
 France,1 1,Poland,previous
@@ -293,7 +333,6 @@ Ferencvaros,2 0,Ujpesti Football Club,previous
 AEK Athens,3 0,Lamia,previous
 Aris Salonika,1 2,PAOK Salonika,previous
 Panathinaikos,2 2,Olympiakos FC,previous
-Red Bull Salzburg,7 1,Linz ASK,previous
 SK Rapid Wien,0 3,Hartberg,previous
 Sturm Graz,2 0,SK Austria Klagenfurt,previous
 Fortuna Dusseldorf,3 2,Magdeburg,previous
@@ -484,11 +523,9 @@ Stoke City Ladies,2 1,West Bromwich Albion WFC,previous
 London Bees,0 5,Rugby Borough Women,previous
 Atlético de Madrid Femenino,5 1,Real Betis Féminas,previous
 Aberystwyth Town,3 0,Pontypridd United,previous
-Caernarfon Town,2 2,Bala Town FC,previous
 Cardiff Metropolitan University,1 3,Newtown AFC,previous
 Colwyn Bay,1 0,Barry Town,previous
 Penybont,1 0,Haverfordwest County,previous
-The New Saints FC,2 0,Connah's Quay Nomads,previous
 Dundee United,1 0,Ayr United,previous
 Altrincham,1 0,Oxford City,previous
 Barnet,4 1,Kidderminster Harriers,previous
@@ -654,7 +691,6 @@ Zambia,2 2,Zimbabwe,previous
 Malawi,0 4,Kenya,previous
 Ivory Coast,2 2,Benin,previous
 Tunisia,0 0,Croatia,previous
-Besiktas,5 1,Buducnost Podgorica,previous
 Levante Femenino,7 0,Real Betis Féminas,previous
 Canvey Island,2 2,Hashtag United,previous
 Independiente Rivadavia,4 0,River Plate,previous
