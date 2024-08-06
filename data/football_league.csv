@@ -3019,18 +3019,18 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 38,10,St. Johnstone,38,8,11,19,29,54,-25,35,Scottish premiership
 38,11,Ross County,38,8,11,19,38,67,-29,35,Scottish premiership
 38,12,Livingston,38,5,10,23,29,70,-41,25,Scottish premiership
-0,1,Aberdeen,0,0,0,0,0,0,0,0,Scottish premiership
-0,2,Celtic,0,0,0,0,0,0,0,0,Scottish premiership
-0,3,Dundee,0,0,0,0,0,0,0,0,Scottish premiership
-0,4,Dundee United,0,0,0,0,0,0,0,0,Scottish premiership
-0,5,Hearts,0,0,0,0,0,0,0,0,Scottish premiership
-0,6,Hibernian,0,0,0,0,0,0,0,0,Scottish premiership
-0,7,Kilmarnock,0,0,0,0,0,0,0,0,Scottish premiership
-0,8,Motherwell,0,0,0,0,0,0,0,0,Scottish premiership
-0,9,Rangers,0,0,0,0,0,0,0,0,Scottish premiership
-0,10,Ross County,0,0,0,0,0,0,0,0,Scottish premiership
-0,11,St. Johnstone,0,0,0,0,0,0,0,0,Scottish premiership
-0,12,St Mirren,0,0,0,0,0,0,0,0,Scottish premiership
+1,1,Celtic,1,1,0,0,4,0,4,3,Scottish premiership
+1,2,St Mirren,1,1,0,0,3,0,3,3,Scottish premiership
+1,3,Aberdeen,1,1,0,0,2,1,1,3,Scottish premiership
+1,4,Dundee,1,0,1,0,2,2,0,1,Scottish premiership
+1,5,Dundee United,1,0,1,0,2,2,0,1,Scottish premiership
+1,6,Hearts,1,0,1,0,0,0,0,1,Scottish premiership
+1,7,Motherwell,1,0,1,0,0,0,0,1,Scottish premiership
+1,8,Rangers,1,0,1,0,0,0,0,1,Scottish premiership
+1,9,Ross County,1,0,1,0,0,0,0,1,Scottish premiership
+1,10,St. Johnstone,1,0,0,1,1,2,-1,0,Scottish premiership
+1,11,Hibernian,1,0,0,1,0,3,-3,0,Scottish premiership
+1,12,Kilmarnock,1,0,0,1,0,4,-4,0,Scottish premiership
 0,9,Inter Milan,0,0,0,0,0,0,0,0,Seria A
 0,10,Juventus,0,0,0,0,0,0,0,0,Seria A
 0,11,Lazio,0,0,0,0,0,0,0,0,Seria A
