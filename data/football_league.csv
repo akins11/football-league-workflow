@@ -2647,6 +2647,18 @@ match_week,position,club,played,won,drawn,lost,GF,GA,GD,points,league_name
 0,10,Ross County,0,0,0,0,0,0,0,0,Scottish premiership
 0,11,St. Johnstone,0,0,0,0,0,0,0,0,Scottish premiership
 0,12,St Mirren,0,0,0,0,0,0,0,0,Scottish premiership
+1,1,Celtic,1,1,0,0,4,0,4,3,Scottish premiership
+1,2,St Mirren,1,1,0,0,3,0,3,3,Scottish premiership
+1,3,Aberdeen,1,1,0,0,2,1,1,3,Scottish premiership
+1,4,Dundee,1,0,1,0,2,2,0,1,Scottish premiership
+1,5,Dundee United,1,0,1,0,2,2,0,1,Scottish premiership
+1,6,Hearts,1,0,1,0,0,0,0,1,Scottish premiership
+1,7,Motherwell,1,0,1,0,0,0,0,1,Scottish premiership
+1,8,Rangers,1,0,1,0,0,0,0,1,Scottish premiership
+1,9,Ross County,1,0,1,0,0,0,0,1,Scottish premiership
+1,10,St. Johnstone,1,0,0,1,1,2,-1,0,Scottish premiership
+1,11,Hibernian,1,0,0,1,0,3,-3,0,Scottish premiership
+1,12,Kilmarnock,1,0,0,1,0,4,-4,0,Scottish premiership
 7,1,Celtic,7,6,1,0,16,4,12,19,Scottish premiership
 7,2,St Mirren,7,4,3,0,11,7,4,15,Scottish premiership
 7,3,Rangers,7,4,0,3,10,5,5,12,Scottish premiership
